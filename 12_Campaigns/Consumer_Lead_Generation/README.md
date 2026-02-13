@@ -1,0 +1,156 @@
+# Consumer Lead Generation Campaign
+
+> **Brand:** Claim Justice Now (claimjusticenow.com)  
+> **Audience:** Personal injury victims (MVA - Motor Vehicle Accidents)  
+> **Objective:** Direct consumer lead acquisition for PI law firm clients
+
+---
+
+## Campaign Overview
+
+This folder contains consumer-facing ad campaigns for **Claim Justice Now**, Lead Faucet's consumer brand. These campaigns target individuals who've been in motor vehicle accidents and need legal representation.
+
+### Strategy
+
+- **Target Audience:** Adults 25-65 who've been in car accidents
+- **Primary Pain Points:** Insurance company difficulties, medical bills, lost wages, confusion about legal process
+- **Value Proposition:** Fast, easy connection to qualified PI attorneys; no upfront costs (contingency-based)
+- **Compliance:** Heavy restrictions (FCC 2025 TCPA, third-person language only, Special Ad Category)
+
+### Active Platforms
+
+- **Meta (Facebook/Instagram)** - Primary acquisition channel
+- **TikTok** - Emerging/testing
+- **Google Ads** - High-intent search (limited due to CPC costs)
+
+---
+
+## Folder Structure
+
+```
+Consumer_Lead_Generation/
+└── 00_Pending_Concepts/     [Concepts in development/review]
+    ├── Behavioral_Trigger_Stack_2025-01-20.md
+    └── Double_Hurt_2025-01-24.md
+```
+
+### Future Structure (as campaigns activate)
+
+```
+Consumer_Lead_Generation/
+├── 00_Pending_Concepts/
+├── 01_Active_Campaigns/      [Live campaigns by state/vertical]
+│   ├── California/
+│   ├── Colorado/
+│   ├── Nevada/
+│   └── Washington/
+├── 02_Seasonal/              [Holiday/seasonal campaigns]
+└── 03_Testing/               [A/B test variants]
+```
+
+---
+
+## Key Documents
+
+### Brand & Positioning
+
+- **[Brand Positioning Core](../../01_Identity/BRAND_POSITIONING_CORE.md)** - Complete positioning framework
+- **[Service: Personal Injury](../../01_Identity/SERVICE_PERSONAL_INJURY.md)** - PI service positioning and messaging
+- **[ClaimJusticeNow Identity System](../../01_Identity/ClaimJusticeNow_Identity_System.md)** - Consumer brand identity
+
+### Voice & Compliance
+
+- **[Third-Person Rules](../../03_Voice/third-person-rules.md)** - CRITICAL: No "you" language allowed
+- **[Banned Phrases](../../03_Voice/banned-phrases.md)** - Blacklisted language
+- **[Approved Phrases](../../03_Voice/approved-phrases.md)** - Pre-cleared copy library
+- **[Behavioral Copy Triggers](../../03_Voice/behavioral-copy-triggers.md)** - Psychological principles
+
+### Creative Guidelines
+
+- **[Ad Messaging Framework](../../03_Voice/AD_MESSAGING_FRAMEWORK.md)** - How to write consumer ads
+- **[Image Style Guide](../../10_Ad_Factory/Production_Guidelines/Image_Style_Guide.md)** - Visual standards
+- **[AI Image Guidelines](../../10_Ad_Factory/Production_Guidelines/AI_Image_Guidelines.md)** - Image generation rules
+
+### Platform Specs
+
+- **[Meta Formats](../../06_Ad_Specs/meta-formats.md)** - Facebook/Instagram specs
+- **[TikTok Formats](../../06_Ad_Specs/tiktok-formats.md)** - TikTok ad specs
+- **[Google Formats](../../06_Ad_Specs/google-formats.md)** - Google Ads specs
+
+### Research & Insights
+
+- **[Meta Copy Best Practices](../../07_Research/Platform_Best_Practices/Meta_Copy_Best_Practices.md)**
+- **[TikTok Copy Best Practices](../../07_Research/Platform_Best_Practices/TikTok_Copy_Best_Practices.md)**
+- **[Copy Insights](../../07_Research/Creative_Resources/Copy_Insights.md)** - Behavioral science framework
+- **[Hooks & Angles](../../07_Research/Creative_Resources/Hooks_And_Angles.md)** - Hook library
+
+---
+
+## Campaign Development Process
+
+### 1. Concept Development
+Start with strategic insight from research → develop angle → create messaging → compliance review
+
+### 2. Creative Execution
+Draft copy → generate images → build ad mockups → final compliance check
+
+### 3. State Customization
+Adapt for state-specific bar rules and market conditions (see `05_Restrictions/`)
+
+### 4. Launch Readiness
+- Copy passes banned phrases check
+- Third-person language verified
+- Images meet platform specs
+- Disclosures included
+- State bar rules followed
+
+---
+
+## Consumer vs. B2B Distinction
+
+| Aspect | Consumer (This Folder) | B2B (Attorney Acquisition) |
+|--------|----------------------|---------------------------|
+| **Audience** | Accident victims | PI attorneys |
+| **Brand** | Claim Justice Now | Lead Faucet |
+| **Goal** | Generate leads for clients | Acquire new law firm clients |
+| **Tone** | Empathetic, accessible | Professional, ROI-focused |
+| **Messaging** | "Get help after accident" | "Get qualified leads" |
+| **Platform** | Meta, TikTok, Google | LinkedIn, targeted Meta, email |
+
+---
+
+## Active States
+
+Consumer campaigns can run in states where Lead Faucet has law firm clients:
+
+- **California** (Larry H. Parker, Jacoby & Meyers)
+- **Colorado** (Jacoby & Meyers)
+- **Nevada** (Jacoby & Meyers)
+- **Washington** (Jacoby & Meyers)
+
+Each state has specific bar association advertising rules (see `05_Restrictions/`).
+
+---
+
+## Naming Conventions
+
+**Pending concepts:** `Concept_Name_YYYY-MM-DD.md`  
+**Active campaigns:** `State_Concept_Name_YYYY-MM-DD.md` or organized in state subfolders
+
+Examples:
+- `Behavioral_Trigger_Stack_2025-01-20.md`
+- `California/Settlement_Timeline_2025-03-15.md`
+
+---
+
+## Notes
+
+- Consumer campaigns must maintain consistent visual identity with ClaimJusticeNow brand
+- All creative must pass compliance checks before production
+- Test concepts start in pending, move to state folders when activated
+- Seasonal campaigns (e.g., holiday travel warnings) go in dedicated seasonal folder
+
+---
+
+*For questions about consumer campaign strategy, consult Julian Cole (Head of Strategy).*  
+*For compliance review, reference all files in `03_Voice/` and `05_Restrictions/`.*
