@@ -29,24 +29,23 @@ This folder contains consumer-facing ad campaigns for **Claim Justice Now**, Lea
 
 ```
 Consumer_Lead_Generation/
-└── 00_Pending_Concepts/     [Concepts in development/review]
-    ├── Behavioral_Trigger_Stack_2025-01-20.md
-    └── Double_Hurt_2025-01-24.md
-```
-
-### Future Structure (as campaigns activate)
-
-```
-Consumer_Lead_Generation/
+├── Colorado/
+│   ├── Boardroom_Concept_2026-02-02.md       [IN PRODUCTION]
+│   └── On_The_Nose_Concept_2026-02-05.md     [IN DEVELOPMENT]
+├── California/
+│   └── Concept_D_2026-01-30.md               [Ready for visual production]
+├── Washington/                                [Not started — next build]
 ├── 00_Pending_Concepts/
-├── 01_Active_Campaigns/      [Live campaigns by state/vertical]
-│   ├── California/
-│   ├── Colorado/
-│   ├── Nevada/
-│   └── Washington/
-├── 02_Seasonal/              [Holiday/seasonal campaigns]
-└── 03_Testing/               [A/B test variants]
+│   ├── Behavioral_Trigger_Stack_2025-01-20.md
+│   └── Double_Hurt_2025-01-24.md
+└── GEO_AND_CREATIVE_EXPANSION_PLAN_2026-02-18.md  [Active strategy doc]
 ```
+
+### State Build Priority
+1. **Colorado** — Full production underway. Two concepts (anger vs. hope A/B test).
+2. **Washington** — Next build. Adapt Colorado winner with WA geo copy.
+3. **California** — Test budget, metro-first (LA, San Diego, Inland Empire).
+4. **Nevada** — OFF. Client flagged as low quality.
 
 ---
 

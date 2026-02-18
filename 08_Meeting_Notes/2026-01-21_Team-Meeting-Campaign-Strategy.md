@@ -1,6 +1,6 @@
 # LeadFaucet Team Meeting
 **Date:** January 21, 2026  
-**Participants:** Alex Kiss, Daniel Dilworth, Davis Ballard  
+**Participants:** Sasha Zinshtein, Daniel Dilworth, Davis Ballard  
 **Project/Brand:** Lead Faucet / Claim Justice Now / Jacoby & Meyers  
 
 ---
@@ -21,7 +21,7 @@ The meeting focused on logistics, campaign performance, and strategy for Lead Fa
 ### Lead Goals
 - **Target: 50 leads per state** for Jacoby & Meyers
 - **Active States:** Washington, Colorado, Nevada, California
-- **Expansion Targets:** Northeast tri-state areas (New York, Pennsylvania) — leveraging Alex Kiss's regional knowledge
+- **Expansion Targets:** Northeast tri-state areas (New York, Pennsylvania) — leveraging Sasha's regional knowledge
 
 ### Trello Board Segmentation (4 Boards)
 1. **Lead Faucet Agency Brand Work** — overarching agency tasks
@@ -135,7 +135,7 @@ The meeting focused on logistics, campaign performance, and strategy for Lead Fa
 - [ ] Look up legality behind routing organic content based on user's state
 - [ ] Audit form funnel for gamification and psychological insights (easiest → hardest questions)
 - [ ] Consistently post organically on Claim Justice Now profiles
-- [ ] Share 10 prioritized ad concepts with Daniel and Alex
+- [ ] Share 10 prioritized ad concepts with Daniel and Sasha
 - [ ] Create Saul bot in Slack and provide access to group
 - [ ] Meet with Daniel Saturday/Sunday to review initial ad creatives
 - [ ] Create Chrome profile for lead faucet email (Slack, Notion, Trello access)
@@ -146,7 +146,7 @@ The meeting focused on logistics, campaign performance, and strategy for Lead Fa
 - [ ] Share lead information from HeyFlow to all group members via generic inbox
 - [ ] Send "Built to Sell" book to all three group members
 
-### Alex Kiss
+### Sasha Zinshtein
 - [ ] Review Notion and all materials Daniel sent over
 
 ### Team

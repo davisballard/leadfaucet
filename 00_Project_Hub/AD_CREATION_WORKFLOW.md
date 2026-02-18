@@ -28,7 +28,7 @@ When triggered, load these expert agents for the roundtable:
 
 | Expert | Role | File |
 |--------|------|------|
-| **Julian Cole** | Head of Strategy — Strategic frame, comms architecture | `04_Dept_Growth_Distribution/Julian_Cole_(Head_of_Strategy)/AGENT.md` |
+| **Julian Cole** | Head of Strategy — Strategic frame, comms architecture | `01_Dept_The_Lab_Strategy/Julian_Cole_(Head_of_Strategy)/AGENT.md` |
 | **Richard Shotton** | Behavioral Scientist — Psychological levers, biases to exploit | `01_Dept_The_Lab_Strategy/Richard_Shotton_(Behavioral_Scientist)/AGENT.md` |
 | **Ed McCabe** | Senior Copywriter — Headlines, hooks, copy craft | `02_Dept_Creative_Core/Ed_McCabe_(Senior_Copywriter)/AGENT.md` |
 | **Depesh Mandalia** | Meta Specialist — Format selection, platform tactics | `04_Dept_Growth_Distribution/Depesh_Mandalia_(Meta_Paid_Social)/AGENT.md` |

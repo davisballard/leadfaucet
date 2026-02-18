@@ -385,7 +385,7 @@ These three changes alone could cut bounce rate by 15-25 percentage points.
 - `03_Dept_Production_Studio/Luke_Wroblewski_(UI_UX_Specialist)/CRO_Methodology.md`
 - `03_Dept_Production_Studio/Chester_Prides_(Web_Designer)/AGENT.md`
 - `01_Dept_The_Lab_Strategy/Richard_Shotton_(Behavioral_Scientist)/Core_Toolkit.md`
-- `04_Dept_Growth_Distribution/Adam_Ferrier_(Behavioral_Strategist)/The_Advertising_Effect.md`
+- `01_Dept_The_Lab_Strategy/Adam_Ferrier_(Behavioral_Strategist)/The_Advertising_Effect.md`
 - `04_Dept_Growth_Distribution/Depesh_Mandalia_(Meta_Paid_Social)/Lead_Gen_Playbook.md`
 - `00_Agency_Library/Books/Dont_Make_Me_Think_Steve_Krug.md`
 

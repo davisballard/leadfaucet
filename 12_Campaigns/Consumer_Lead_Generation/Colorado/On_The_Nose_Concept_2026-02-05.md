@@ -245,6 +245,66 @@ Duration: 2-3 seconds.
 ### BEAT 2B: MORNING WINDOW — Light Detail (6-8 seconds)
 *Script: "...what they're owed."*
 
+**Visual:**
+- Morning light streaming through a kitchen window
+- Dust particles floating in the sunbeam
+- Simple, abstract, hopeful
+- The "new day" = new opportunity vibe
+
+**Motion:** Static or very slow. Dust drifts. Light is warm.
+
+**Emotion Arc:** "What they're owed" = possibility, a new day, something waiting
+
+**Why this works:** Abstract shot is easy for video gen, provides visual breathing room, and transitions naturally to Beat 3 (family scene also has warm light).
+
+---
+
+**Production Image Prompt — Beat 2B (Nano Banana Pro):**
+```
+Morning sunlight streaming through a simple kitchen window.
+The window has basic white curtains, slightly open.
+
+GOLDEN LIGHT fills the frame — warm, hopeful, inviting.
+Dust particles float visibly in the sunbeam.
+
+The window is in a working-class home — clean but simple.
+Maybe a small potted plant on the windowsill, slightly wilted.
+A glimpse of the kitchen in soft focus below the frame.
+
+The feeling is: a new day. Possibility. Something waiting.
+
+Luca Maxim cinematic style — hyperrealistic, shallow depth 
+of field focused on the light and particles, film grain, 
+warm golden color grade. Intimate domestic detail.
+```
+
+---
+
+**Production Video Prompt — Beat 2B (Kling 2.6 Pro):**
+```
+Morning sunlight streaming through a kitchen window.
+Camera holds STILL.
+
+MINIMAL MOTION ONLY:
+- Dust particles DRIFT slowly through the sunbeam
+- Light shifts almost imperceptibly
+- Curtains remain still
+
+This is an abstract, contemplative beat.
+The warmth of morning. The possibility of a new day.
+
+The light is GOLDEN and hopeful — not cold, not sad.
+This is the bridge between "what they're owed" and 
+"here's how to find out."
+
+Static shot. Let the dust particles do the work.
+
+Luca Maxim cinematic style, warm morning light,
+film grain, intimate domestic detail.
+
+Duration: 2 seconds.
+```
+
 ---
 
 ## BEAT 3B ALT: LAW OFFICE RESOLUTION — Production Specs
@@ -359,66 +419,6 @@ To maintain character consistency across beats:
 
 The lawyers can vary — they're new characters. The FAMILY must match.
 
-**Visual:**
-- Morning light streaming through a kitchen window
-- Dust particles floating in the sunbeam
-- Simple, abstract, hopeful
-- The "new day" = new opportunity vibe
-
-**Motion:** Static or very slow. Dust drifts. Light is warm.
-
-**Emotion Arc:** "What they're owed" = possibility, a new day, something waiting
-
-**Why this works:** Abstract shot is easy for video gen, provides visual breathing room, and transitions naturally to Beat 3 (family scene also has warm light).
-
----
-
-**Production Image Prompt — Beat 2B (Nano Banana Pro):**
-```
-Morning sunlight streaming through a simple kitchen window.
-The window has basic white curtains, slightly open.
-
-GOLDEN LIGHT fills the frame — warm, hopeful, inviting.
-Dust particles float visibly in the sunbeam.
-
-The window is in a working-class home — clean but simple.
-Maybe a small potted plant on the windowsill, slightly wilted.
-A glimpse of the kitchen in soft focus below the frame.
-
-The feeling is: a new day. Possibility. Something waiting.
-
-Luca Maxim cinematic style — hyperrealistic, shallow depth 
-of field focused on the light and particles, film grain, 
-warm golden color grade. Intimate domestic detail.
-```
-
----
-
-**Production Video Prompt — Beat 2B (Kling 2.6 Pro):**
-```
-Morning sunlight streaming through a kitchen window.
-Camera holds STILL.
-
-MINIMAL MOTION ONLY:
-- Dust particles DRIFT slowly through the sunbeam
-- Light shifts almost imperceptibly
-- Curtains remain still
-
-This is an abstract, contemplative beat.
-The warmth of morning. The possibility of a new day.
-
-The light is GOLDEN and hopeful — not cold, not sad.
-This is the bridge between "what they're owed" and 
-"here's how to find out."
-
-Static shot. Let the dust particles do the work.
-
-Luca Maxim cinematic style, warm morning light,
-film grain, intimate domestic detail.
-
-Duration: 2 seconds.
-```
-
 ---
 
 ## FULL BEAT STRUCTURE (Final)
@@ -449,6 +449,8 @@ Duration: 2 seconds.
 - Delivery should be MORE CONVERSATIONAL, less "investigative documentary"
 - Emphasize "millions" and "sixty seconds" — the hook and the ease
 - Pace: steady, confident, not urgent
+
+**VO URL:** `https://v3b.fal.media/files/b/0a8d3f80/yR9pgeeAHAVA44V3PupPg_output.mp3`
 
 ---
 
@@ -501,26 +503,21 @@ Duration: 2 seconds.
 **✅ COMPLETED:**
 1. ~~Lock script~~ — Version B "Numbers Forward" LOCKED (30 words)
 2. ~~Map visual beats~~ — 4 reuse, 2 new (Beat 2A + 2B)
-3. ~~Create VO generation script~~ — `generate_on_the_nose_audio.py`
-
-**✅ COMPLETED:**
-4. ~~Generate VO~~ — Bill voice generated
-
-**VO URL:** `https://v3b.fal.media/files/b/0a8d3f80/yR9pgeeAHAVA44V3PupPg_output.mp3`
+3. ~~Generate VO~~ — Bill voice generated
 
 **⏳ IN PROGRESS:**
-5. **Generate Beat 2A image** — Kitchen Table WIDE
-6. **Generate Beat 2A video** — Slow push-in (2s)
-7. **Generate Beat 2B image** — Morning Window light
-8. **Generate Beat 2B video** — Static dust particles (2s)
-9. **Generate Beat 3B image** — Law Office with Maria family + 8 lawyers (Colorado)
-10. **Generate Beat 3B video** — Slow push-in, heroic (3-4s)
+4. **Generate Beat 2A image** — Kitchen Table WIDE
+5. **Generate Beat 2A video** — Slow push-in (2s)
+6. **Generate Beat 2B image** — Morning Window light
+7. **Generate Beat 2B video** — Static dust particles (2s)
+8. **Generate Beat 3B image** — Law Office with Maria family + 8 lawyers (Colorado)
+9. **Generate Beat 3B video** — Slow push-in, heroic (3-4s)
 
 **⏳ PENDING:**
-9. **Select music** — Warmer than Boardroom options (or reuse Option C warm half)
-10. **Assemble in CapCut** — Stitch clips, sync audio, add text overlays
-11. **Compliance review** — Final Saul check
-12. **Upload to Airtable** — Ready for Meta
+10. **Select music** — Warmer than Boardroom options (or reuse Option C warm half)
+11. **Assemble in CapCut** — Stitch clips, sync audio, add text overlays
+12. **Compliance review** — Final Saul check
+13. **Upload to Airtable** — Ready for Meta
 
 ---
 
@@ -528,10 +525,10 @@ Duration: 2 seconds.
 
 | File | Purpose |
 |------|---------|
-| `PENDING_CO_THE_BOARDROOM_2026-02-02.md` | Original concept for A/B comparison |
-| `04_Audience/colorado-targeting.md` | Maria archetype, zip codes |
-| `02_Visual/video-format-strategy.md` | Story Slide specs, audio mixing |
-| `03_Voice/third-person-rules.md` | Compliance language |
+| `Boardroom_Concept_2026-02-02.md` | Original concept for A/B comparison — assets to reuse |
+| `../../04_Audience/colorado-targeting.md` | Maria archetype, zip codes |
+| `../../02_Visual/video-format-strategy.md` | Story Slide specs, audio mixing |
+| `../../03_Voice/third-person-rules.md` | Compliance language |
 
 ---
 

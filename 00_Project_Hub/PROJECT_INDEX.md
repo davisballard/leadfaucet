@@ -8,6 +8,8 @@
 
 | Need | File |
 |------|------|
+| **Team roles & compensation** | [`ROLES_AND_COMPENSATION.md`](ROLES_AND_COMPENSATION.md) |
+| **Davis's official role** | [`../09_Operations/DAVIS_ROLE_COMPENSATION_OFFICIAL.md`](../09_Operations/DAVIS_ROLE_COMPENSATION_OFFICIAL.md) |
 | **Brand overview & ad creation** | [`BRAND_MASTER.md`](BRAND_MASTER.md) |
 | **Create ads workflow** | [`AD_CREATION_WORKFLOW.md`](AD_CREATION_WORKFLOW.md) |
 | **Brand positioning (complete)** | [`../01_Identity/BRAND_POSITIONING_CORE.md`](../01_Identity/BRAND_POSITIONING_CORE.md) |
@@ -48,8 +50,9 @@
 | [`Brand_Essence.md`](../01_Identity/Brand_Essence.md) | Brand essence and core values |
 | [`Partner_Firms.md`](../01_Identity/Partner_Firms.md) | Partner firm profiles and relationships |
 
-**Subfolder:** [`ClaimJusticeNow/`](../01_Identity/ClaimJusticeNow/)
-- Consumer brand logo development and design briefs
+**Subfolders:**
+- [`ClaimJusticeNow/`](../01_Identity/ClaimJusticeNow/) - Consumer brand logo development and design briefs
+- [`employees/`](../01_Identity/employees/) - Team member profiles (DavisBallard.md, DanielDilworth.md, SashaZinshtein.md)
 
 ---
 
@@ -150,16 +153,19 @@ Dated meeting notes and key decisions
 
 ### 09_Operations
 
-**Purpose:** Project operations, tasks, scope of work, development tools
+**Purpose:** Project operations, tasks, scope of work, team roles, compensation
 
 **Path:** [`../09_Operations/`](../09_Operations/)
 
 | Files | Description |
 |-------|-------------|
+| **`DAVIS_ROLE_COMPENSATION_OFFICIAL.md`** | **AUTHORITATIVE: Davis's role, compensation, partnership structure** |
+| `scope-of-work.md` | Team structure overview and quick reference |
 | `active-tasks.md` | Current active tasks and priorities |
-| `scope-of-work.md` | Project scope and deliverables |
 
 **Subfolder:** `Tools_Scripts/` - Development scripts and virtual environment
+
+**Also see:** [`ROLES_AND_COMPENSATION.md`](ROLES_AND_COMPENSATION.md) in Project Hub for quick reference
 
 ---
 

@@ -469,7 +469,7 @@
 - `03_Dept_Production_Studio/Luke_Wroblewski_(UI_UX_Specialist)/Form_Design_Mastery.md`
 - `03_Dept_Production_Studio/Luke_Wroblewski_(UI_UX_Specialist)/Mobile_First_Framework.md`
 - `01_Dept_The_Lab_Strategy/Richard_Shotton_(Behavioral_Scientist)/Core_Toolkit.md`
-- `04_Dept_Growth_Distribution/Adam_Ferrier_(Behavioral_Strategist)/AGENT.md`
+- `01_Dept_The_Lab_Strategy/Adam_Ferrier_(Behavioral_Strategist)/AGENT.md`
 - `04_Dept_Growth_Distribution/Depesh_Mandalia_(Meta_Paid_Social)/Lead_Gen_Playbook.md`
 - `06_Brands/Lead_Faucet/07_Research/Strategic_Insights/Funnel_Insights.md`
 - `06_Brands/Lead_Faucet/07_Research/Strategic_Insights/Audience_Psychology_Insights.md`

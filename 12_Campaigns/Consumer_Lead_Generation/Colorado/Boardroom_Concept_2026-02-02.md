@@ -693,13 +693,13 @@ with supportive motion, film grain, the drama of love in action.
 
 | File | Purpose |
 |------|---------|
-| `06_Brands/Lead_Faucet/00_Project_Hub/AD_CREATION_WORKFLOW.md` | Master workflow |
-| `06_Brands/Lead_Faucet/04_Audience/colorado-targeting.md` | Maria archetype, zip codes |
-| `06_Brands/Lead_Faucet/02_Visual/video-format-strategy.md` | Story Slide specs, audio mixing |
-| `06_Brands/Lead_Faucet/03_Voice/third-person-rules.md` | Compliance language |
-| `06_Brands/Lead_Faucet/07_Research/Partner_Firms/Jacoby_Meyers_Reference.md` | Approved stats |
-| `03_Dept_Production_Studio/Giuseppe_Karma_(AI_Creative_Director)/Influencer_Styles/Luca_Maxim_Style.md` | Visual style reference |
-| `06_Brands/Lead_Faucet/07_Research/Strategic_Analysis/BEHAVIORAL_CONTENT_SYSTEM.md` | Behavioral levers |
+| `../../00_Project_Hub/AD_CREATION_WORKFLOW.md` | Master workflow |
+| `../../04_Audience/colorado-targeting.md` | Maria archetype, zip codes |
+| `../../02_Visual/video-format-strategy.md` | Story Slide specs, audio mixing |
+| `../../03_Voice/third-person-rules.md` | Compliance language |
+| `../../07_Research/Partner_Firms/Jacoby_Meyers_Reference.md` | Approved stats |
+| `Agency_Simulation_Root/03_Dept_Production_Studio/Giuseppe_Karma_(AI_Creative_Director)/Influencer_Styles/Luca_Maxim_Style.md` | Visual style reference |
+| `../../07_Research/Strategic_Analysis/BEHAVIORAL_CONTENT_SYSTEM.md` | Behavioral levers |
 
 ---
 

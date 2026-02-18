@@ -4,8 +4,33 @@
 
 ## Role / Title
 
-**Chief Innovation Officer**  
+**Chief Innovation Officer** (Future Equity Partner)  
 Lead Faucet
+
+---
+
+## Official Role & Partnership Status
+
+**Partnership Track:** Equity partner after proving value through profit-sharing (formalization timeline TBD in upcoming compensation plan)
+
+**Core Responsibilities:**
+- Systems building that enables sales team success
+- Creative direction and ad production
+- Strategic architecture and positioning
+- Technical sales support for large accounts (closing, not cold calling)
+
+**NOT Responsible For:**
+- Cold calling or sales outreach (Sasha's role)
+- Media buying execution (Sasha's role)
+- Day-to-day client relationship management
+
+**Compensation Structure (In Development):**
+- Profit sharing on all revenue (including attribution for deals closed using systems/creative)
+- Path to $10K/month baseline
+- Multiple models being formalized: ad efficiency savings share, channel development share, performance-based
+- Equity timeline and criteria to be defined in formal plan
+
+**For complete role definition and compensation details:** *[See 09_Operations/DAVIS_ROLE_COMPENSATION_OFFICIAL.md](../../09_Operations/DAVIS_ROLE_COMPENSATION_OFFICIAL.md)*
 
 ---
 
@@ -23,27 +48,39 @@ At Lead Faucet, Davis serves as the complete strategic and creative department�
 
 ## Experience & Background
 
-### Current Role: Lead Faucet (2023–Present)
-**Chief Innovation Officer**
+### Current Role: Lead Faucet (2025–Present)
+**Chief Innovation Officer** (Future Equity Partner)
 
 Lead Faucet is geo-exclusive lead generation for personal injury law firms (one firm per market). Clients include Jacoby & Meyers and Sink Law.
 
-Heads marketing, creative, and innovation as a one-person in-house agency: positioning, strategy, creative direction, ad production across Meta, Google, TikTok, LinkedIn. AI-enhanced workflows turn evidence-based strategy into bold, on-brand creative at scale.
+Operating as systems architect, creative director, and strategic partner—building compounding value that enables sales team success while developing replicable, scalable processes.
 
-**Key Responsibilities:**
-• **Built the AI engine** — Integrated 18 years of marketing science, 1,000+ behavioral biases, and creative frameworks into an autonomous system that delivers strategy and creative at scale
-• **Strategy & positioning** — Lead all brand strategy and go-to-market planning, grounded in evidence-based marketing science (not marketing mythology)
-• **Creative direction & execution** — Direct and produce all creative for consumer campaigns and B2B attorney acquisition—bold work that breaks through, not safe committee-approved mediocrity
-• **Ad production** — Create and ship ads across Meta, Google, TikTok, Snapchat, LinkedIn—from concept to platform-specific creative in days, not months
-• **Behavioral marketing** — Apply 1,000+ behavioral biases and psychological triggers from comprehensive research library—persuasion architecture built on evidence, not guesswork
-• **Brand building** — Build brand identity, messaging systems, and distinctive assets that actually get noticed (not invisible "on-brand" sameness)
-• **Systems & leverage** — Design scalable AI workflows that multiply creative output—do the work once, deploy it a thousand times
-• **Marketing science in practice** — Translate academic research (Byron Sharp, Binet & Field, Shotton) into strategies and creative that actually work in market
+**Official Role (Confirmed Feb 2026):**
+• **Strategic Architecture & Creative Direction** — Brand positioning, messaging frameworks, creative systems that enable sales success; get credited when deals close using your work
+• **Strategic IP Development** — Brand positioning (Claim Justice Now), consumer research (4 C's framework), quiz flow optimization, website strategy
+• **Ad Creative Development & Production** — Ad creative, scripts, concepts across Meta, Google, TikTok, Snapchat, LinkedIn
+• **Positioning & Messaging** — Evidence-based positioning grounded in marketing science, behavioral psychology, and consumer insights
+• **Technical Sales Support** — Close large accounts (not cold outreach); strategy sessions with clients; present value proposition for complex deals
+• **Performance-Driven Creative** — Early ads performing at $75 CPL vs $150 CPL (50% improvement); projected $54K/month in ad efficiency at scale
+
+**Note:** When Danny refers to "systems," he means strategic architecture, creative frameworks, and positioning - the top-line strategic and creative work. Comes from his UX/UI background. You're totally aligned on this.
+
+**What I DON'T Do:**
+• Cold calling or sales outreach (Sasha's role)
+• Media buying execution (Sasha's role)
+• Day-to-day client relationship management (distributed across team)
+
+**Partnership Structure:**
+• Path to equity partner after proving value through profit-sharing
+• Baseline goal: $10K/month
+• Multiple compensation models: profit sharing on all revenue, ad efficiency savings share (50%), new channel development (25%), performance-based
+• Flexible structure that adjusts as business grows
 
 **Innovation Impact:**
 • Created autonomous agency-in-a-box capability: strategy + creative + production delivered through AI-enhanced systems
 • Integrated marketing science, behavioral psychology, and creative execution into unified workflow
 • Enabled startup to operate with Fortune 500-level creative sophistication and strategic rigor
+• Built strategic IP (brand positioning, research frameworks, creative systems) that compounds value
 
 ---
 

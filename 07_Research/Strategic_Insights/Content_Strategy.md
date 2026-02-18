@@ -269,7 +269,7 @@ Large law firms typically work with **multiple lead generation providers** — n
 - Never reveal cost paid for leads or margin details
 
 **Distribution:**
-- Sales decks for Alex
+- Sales decks for Sasha
 - Website "Results" section
 - LinkedIn posts for credibility
 
