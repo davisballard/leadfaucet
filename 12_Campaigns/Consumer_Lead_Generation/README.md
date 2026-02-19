@@ -35,9 +35,7 @@ Consumer_Lead_Generation/
 ├── California/
 │   └── Concept_D_2026-01-30.md               [Ready for visual production]
 ├── Washington/                                [Not started — next build]
-├── 00_Pending_Concepts/
-│   ├── Behavioral_Trigger_Stack_2025-01-20.md
-│   └── Double_Hurt_2025-01-24.md
+├── 00_Pending_Concepts/          [Empty — concepts archived to 00_Archive/]
 └── GEO_AND_CREATIVE_EXPANSION_PLAN_2026-02-18.md  [Active strategy doc]
 ```
 
@@ -59,10 +57,10 @@ Consumer_Lead_Generation/
 
 ### Voice & Compliance
 
-- **[Third-Person Rules](../../03_Voice/third-person-rules.md)** - CRITICAL: No "you" language allowed
-- **[Banned Phrases](../../03_Voice/banned-phrases.md)** - Blacklisted language
-- **[Approved Phrases](../../03_Voice/approved-phrases.md)** - Pre-cleared copy library
-- **[Behavioral Copy Triggers](../../03_Voice/behavioral-copy-triggers.md)** - Psychological principles
+- **[Third-Person Rules](../../03_Voice/Third_Person_Rules.md)** - CRITICAL: No "you" language allowed
+- **[Banned Phrases](../../03_Voice/Banned_Phrases.md)** - Blacklisted language
+- **[Approved Phrases](../../03_Voice/Approved_Phrases.md)** - Pre-cleared copy library
+- **[Behavioral Copy Triggers](../../03_Voice/Behavioral_Copy_Triggers.md)** - Psychological principles
 
 ### Creative Guidelines
 
@@ -72,9 +70,9 @@ Consumer_Lead_Generation/
 
 ### Platform Specs
 
-- **[Meta Formats](../../06_Ad_Specs/meta-formats.md)** - Facebook/Instagram specs
-- **[TikTok Formats](../../06_Ad_Specs/tiktok-formats.md)** - TikTok ad specs
-- **[Google Formats](../../06_Ad_Specs/google-formats.md)** - Google Ads specs
+- **[Meta Formats](../../06_Ad_Specs/Meta_Formats.md)** - Facebook/Instagram specs
+- **[TikTok Formats](../../06_Ad_Specs/TikTok_Formats.md)** - TikTok ad specs
+- **[Google Formats](../../06_Ad_Specs/Google_Formats.md)** - Google Ads specs
 
 ### Research & Insights
 
@@ -137,8 +135,8 @@ Each state has specific bar association advertising rules (see `05_Restrictions/
 **Active campaigns:** `State_Concept_Name_YYYY-MM-DD.md` or organized in state subfolders
 
 Examples:
-- `Behavioral_Trigger_Stack_2025-01-20.md`
 - `California/Settlement_Timeline_2025-03-15.md`
+- `Colorado/Boardroom_Concept_2026-02-02.md`
 
 ---
 

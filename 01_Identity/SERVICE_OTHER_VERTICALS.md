@@ -1,18 +1,18 @@
-# Service Overview: Other Verticals (Immigration & Mass Tort)
+# Service Overview: Immigration & Mass Tort
 
-**Last Updated:** February 12, 2026  
-**Status:** Secondary verticals (documented, not prioritized)  
+**Last Updated:** February 18, 2026  
+**Status:** Active verticals  
 **Source:** leadfaucet.co website scrape
 
 ---
 
 ## Overview
 
-Lead Faucet applies the same demand infrastructure model to three legal verticals:
+Lead Faucet applies the same demand infrastructure model to three legal verticals — each one a practice area the team has gone deep on, with dedicated tools, screening criteria, and creative strategy built for it specifically.
 
-1. **Personal Injury** (PRIMARY — see SERVICE_PERSONAL_INJURY.md)
-2. **Immigration** (SECONDARY — documented here)
-3. **Mass Tort** (SECONDARY — documented here)
+1. **Personal Injury** — see SERVICE_PERSONAL_INJURY.md
+2. **Immigration** — documented here
+3. **Mass Tort** — documented here
 
 **From website:** "The system is vertical-agnostic. Our expertise is not."
 
@@ -50,11 +50,11 @@ Same as PI:
 - Exclusive territory lock
 - Predictable case flow
 
-### Tools (Coming Soon)
+### Tool
 
-Immigration intake tools in development.
+**GetMyVisa** (getmyvisa.co) — Live. Multi-language guided intake experience for immigration applicants. Covers 12 visa categories including family petitions, employment visas, asylum, and naturalization. Applicants are pre-qualified and documented before attorney contact begins.
 
-**Philosophy:** Same as CaseSnapshot—free consumer-facing tools that educate, qualify, and document before intake.
+**Philosophy:** Same as CaseSnapshot — free consumer-facing tools that educate, qualify, and document before intake.
 
 ### Target Customer
 
@@ -108,35 +108,16 @@ Mass tort intake tools in development.
 
 ---
 
-## Service Hierarchy
+## Practice Area Overview
 
-### Primary Focus: Personal Injury (MVA)
+### Personal Injury (MVA)
+The most fully built-out vertical in terms of tooling, research, and partner relationships. CaseSnapshot is live. Partners include Jacoby & Meyers and Larry H. Parker. Highest volume case type. See `SERVICE_PERSONAL_INJURY.md` for full documentation.
 
-**Why PI is primary:**
-- Highest volume potential
-- Most predictable economics
-- Clearest qualification criteria
-- Proven tools (CaseSnapshot live)
-- Established partner base (Jacoby & Meyers, Larry H. Parker)
-- Most research and strategy developed
+### Immigration
+GetMyVisa is the dedicated consumer tool — multi-language guided intake across 12 visa categories. Partner firms handle family petitions, employment visas, asylum, and naturalization. Geo-exclusive model applies.
 
-**Current priority:** 90% of effort on PI/MVA
-
-### Secondary Verticals: Immigration & Mass Tort
-
-**Status:** Offered, but not prioritized for current brand documentation work.
-
-**Why secondary:**
-- Smaller current client base
-- Tools still in development
-- Less research completed
-- Different economics and qualification models
-
-**Approach:**
-- Document what's on website
-- Don't create extensive strategy docs yet
-- Maintain positioning consistency
-- Revisit when these verticals scale
+### Mass Tort
+High-volume qualification for MDL litigation — pharmaceutical, product liability, corporate harm. Mass tort economics differ from PI (exclusivity may be adapted for volume needs). Tools in development.
 
 ---
 
@@ -212,32 +193,30 @@ Mass tort intake tools in development.
 
 ## Future Development
 
-### When Immigration Becomes Priority
+### Immigration (Deeper Documentation)
 
-**Create:**
-- Detailed service documentation (like PI)
+**To build out:**
 - Immigration-specific messaging framework
 - Client case studies
 - Qualification criteria documentation
-- Tool launch strategy
+- GetMyVisa tool launch strategy and partner onboarding
 
-### When Mass Tort Becomes Priority
+### Mass Tort (Deeper Documentation)
 
-**Create:**
-- Detailed service documentation
+**To build out:**
 - Mass tort economics analysis
-- High-volume qualification systems
-- MDL-specific messaging
+- High-volume qualification systems documentation
+- MDL-specific messaging framework
 - Partner firm profiles
 
 ---
 
 ## Related Documents
 
-- [`SERVICE_PERSONAL_INJURY.md`](SERVICE_PERSONAL_INJURY.md) — Primary vertical (full documentation)
+- [`SERVICE_PERSONAL_INJURY.md`](SERVICE_PERSONAL_INJURY.md) — Full documentation
 - [`BRAND_POSITIONING_CORE.md`](BRAND_POSITIONING_CORE.md) — Core positioning (applies to all verticals)
 - [`Website_Scrape_Raw_2026-02-12.md`](../07_Research/Strategic_Analysis/Website_Scrape_Raw_2026-02-12.md) — Website content source
 
 ---
 
-**Note:** This document is intentionally brief. The focus is on Personal Injury (MVA). These verticals are documented for completeness but not prioritized for extensive brand strategy work at this time.
+**Note:** This document covers Immigration and Mass Tort. For Personal Injury, see `SERVICE_PERSONAL_INJURY.md`. All three verticals operate under the same Case-Ready standard and demand infrastructure model.

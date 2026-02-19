@@ -347,7 +347,7 @@ Line Height: 1.4
 
 ## Related Files
 
-- `02_Visual/color-palette.md` — Color pairings for text
-- `03_Voice/approved-phrases.md` — Copy to pair with typography
-- `06_Ad_Specs/meta-formats.md` — Platform specifications
+- `02_Visual/Color_Palette.md` — Color pairings for text
+- `03_Voice/Approved_Phrases.md` — Copy to pair with typography
+- `06_Ad_Specs/Meta_Formats.md` — Platform specifications
 - `07_Research/Strategic_Insights/Visual_Insights.md` — Source research

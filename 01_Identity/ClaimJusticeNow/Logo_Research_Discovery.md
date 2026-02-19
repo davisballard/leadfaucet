@@ -1,6 +1,6 @@
 # ClaimJusticeNow Logo Research & Discovery
 
-**Designer:** Massimo Vignelli (Brand Identity Designer)  
+**Designer:** Massimo Vignelli (Visual Systems Architect)  
 **Date:** February 10, 2026
 
 ---

@@ -366,7 +366,7 @@ Always include: `...taken on iPhone 14, harsh flash photography, posted on twitt
 
 **Rule:** Use AI for the VISUALS, not the EVIDENCE.
 
-See: `02_Visual/banned-imagery.md` — AI Lip-Sync section
+See: `02_Visual/Banned_Imagery.md` — AI Lip-Sync section
 
 ---
 
@@ -374,9 +374,9 @@ See: `02_Visual/banned-imagery.md` — AI Lip-Sync section
 
 | File | Contains |
 |------|----------|
-| `02_Visual/approved-imagery.md` | What visuals work (static + video) |
-| `02_Visual/banned-imagery.md` | What gets rejected |
-| `02_Visual/luca-maxim-format.md` | **Premium cinematic format (15-20s)** — Luca Maxim satirical style |
+| `02_Visual/Approved_Imagery.md` | What visuals work (static + video) |
+| `02_Visual/Banned_Imagery.md` | What gets rejected |
+| `02_Visual/Luca_Maxim_Format.md` | **Premium cinematic format (15-20s)** — Luca Maxim satirical style |
 | `07_Research/Creative_Resources/Video_Hook_Templates.md` | 200 hook formulas |
 | `08_Ad_Factory/video_models/` | Video generation code |
 | `08_Ad_Factory/audio_models/` | Audio generation code |
@@ -388,7 +388,7 @@ See: `02_Visual/banned-imagery.md` — AI Lip-Sync section
 
 > **Premium satirical format for hero content and pattern interrupts.**
 
-See: `luca-maxim-format.md` for full specification.
+See: `Luca_Maxim_Format.md` for full specification.
 
 ### Quick Summary
 

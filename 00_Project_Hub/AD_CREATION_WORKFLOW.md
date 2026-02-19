@@ -43,18 +43,18 @@ When triggered, load these expert agents for the roundtable:
 ### For Any State
 
 **Brand Core:**
-- `01_Identity/brand-essence.md` — Mission, positioning
-- `01_Identity/partner-firms.md` — Which firm for which state
-- `03_Voice/third-person-rules.md` — "YOU" ban, third-person language
+- `01_Identity/Brand_Essence.md` — Mission, positioning
+- `01_Identity/Partner_Firms.md` — Which firm for which state
+- `03_Voice/Third_Person_Rules.md` — "YOU" ban, third-person language
 
 **Strategic Frameworks:**
 - `07_Research/Strategic_Analysis/BEHAVIORAL_CONTENT_SYSTEM.md` — Psychological levers, power scores
 - `07_Research/Strategic_Insights/Audience_Psychology_Insights.md` — Victim psychology, punchy lines
-- `02_Visual/video-format-strategy.md` — Format guidance (Motion Still, TikTok Slide)
+- `02_Visual/Video_Format_Strategy.md` — Format guidance (Motion Still, TikTok Slide)
 
 **Restrictions:**
-- `05_Restrictions/platform-rules.md` — Meta Special Ad Categories
-- `05_Restrictions/state-bar-quick-ref.md` — State-specific disclosure requirements
+- `05_Restrictions/Platform_Rules.md` — Meta Special Ad Categories
+- `05_Restrictions/State_Bar_Quick_Ref.md` — State-specific disclosure requirements
 
 ### State-Specific Context
 
@@ -62,8 +62,8 @@ When triggered, load these expert agents for the roundtable:
 |-------|-------------|-----------------|-------------|
 | **CA** | Larry H. Parker | `07_Research/Partner_Firms/CA_Ads_Stats_Reference.md` + `Larry_H_Parker_Reference.md` | Standard |
 | **NV** | Jacoby & Meyers | `07_Research/Partner_Firms/Jacoby_Meyers_Reference.md` | `05_Restrictions/nevada/` |
-| **CO** | Jacoby & Meyers | `07_Research/Partner_Firms/Jacoby_Meyers_Reference.md` | `05_Restrictions/colorado/state-rules.md` |
-| **WA** | Jacoby & Meyers | `07_Research/Partner_Firms/Jacoby_Meyers_Reference.md` | `05_Restrictions/washington/state-rules.md` |
+| **CO** | Jacoby & Meyers | `07_Research/Partner_Firms/Jacoby_Meyers_Reference.md` | `05_Restrictions/colorado/State_Rules.md` |
+| **WA** | Jacoby & Meyers | `07_Research/Partner_Firms/Jacoby_Meyers_Reference.md` | `05_Restrictions/washington/State_Rules.md` |
 
 ---
 
@@ -280,7 +280,7 @@ Before finalizing any ad:
 | `BRAND_MASTER.md` | Full brand hub and file index |
 | `10_Ad_Factory/Production_Guidelines/IDEATION.md` | Image prompt templates, angle categories |
 | `10_Ad_Factory/Production_Guidelines/Image_Style_Guide.md` | Visual style direction |
-| `02_Visual/video-format-strategy.md` | Motion Still + TikTok Slide specs |
+| `02_Visual/Video_Format_Strategy.md` | Motion Still + TikTok Slide specs |
 
 ---
 

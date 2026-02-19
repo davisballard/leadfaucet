@@ -918,13 +918,13 @@ Build each with full starter-pack precision. The hero should be as specific and 
 |------|-----------|
 | Full Luca Maxim shot library | `../../../03_Dept_Production_Studio/Giuseppe_Karma_(AI_Creative_Director)/Influencer_Styles/Luca_Maxim_Style.md` |
 | Research & analysis | `../../../03_Dept_Production_Studio/Giuseppe_Karma_(AI_Creative_Director)/Influencer_Styles/Luca_Maxim_Research.md` |
-| Motion Still format | `video-format-strategy.md` (Format A) |
-| Story Slide format | `video-format-strategy.md` (Format B) |
+| Motion Still format | `Video_Format_Strategy.md` (Format A) |
+| Story Slide format | `Video_Format_Strategy.md` (Format B) |
 | Image style guide | `../../../10_Ad_Factory/IMAGE_STYLE_GUIDE.md` |
 | Video production tools | `../../../10_Ad_Factory/VIDEO_PRODUCTION_TOOLS.md` |
 | Starter Pack Framework | `../07_Research/Strategic_Insights/Starter_Pack_Framework.md` |
 | Audience Psychology | `../07_Research/Strategic_Insights/Audience_Psychology_Insights.md` |
-| Compliance | `../banned-imagery.md`, `../../../03_Voice/third-person-rules.md` |
+| Compliance | `../Banned_Imagery.md`, `../../../03_Voice/Third_Person_Rules.md` |
 
 ---
 

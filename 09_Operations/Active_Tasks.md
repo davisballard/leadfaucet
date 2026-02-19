@@ -226,7 +226,7 @@
 
 ### Key Documents Created (Feb 12)
 - Meeting notes: `/08_Meeting_Notes/2026-02-12_Team_Call_Danny_Sasha_Davis.md`
-- This file (updated): `/09_Operations/active-tasks.md`
+- This file (updated): `/09_Operations/Active_Tasks.md`
 
 ### Brand Assets
 - Lead Faucet website: [URL from Danny]

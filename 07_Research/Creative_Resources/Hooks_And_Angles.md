@@ -442,7 +442,7 @@ Every angle should activate at least one of these psychological mechanisms (rank
 - "Day in the life" of an attorney
 - Green Screen commentary on news
 
-> **Video Hook Templates:** For 200 fill-in-the-blank video openers optimized for TikTok/Reels/Shorts, see `video-hook-templates.md`
+> **Video Hook Templates:** For 200 fill-in-the-blank video openers optimized for TikTok/Reels/Shorts, see `Video_Hook_Templates.md`
 
 ### What Works on Meta
 - Urgent alert framing ✅
@@ -534,6 +534,6 @@ Adapt their hooks, formats, and styles to legal.
 
 For maximum scroll-stopping power, pair these hooks with hyper-specific regional identity imagery.
 
-**See:** `starter-pack-framework.md`
+**See:** `Starter_Pack_Framework.md`
 
 The "Starter Pack" approach uses behavioral science (identity salience, localized norms) to create visuals that make people stop because they see *themselves*—their exact archetype, in their exact location, wearing exactly what they wear.

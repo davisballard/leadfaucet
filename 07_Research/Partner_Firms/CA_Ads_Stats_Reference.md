@@ -269,6 +269,6 @@ iPhone quality, candid not posed,
 
 - **Full Larry H. Parker data:** `Larry_H_Parker_Reference.md`
 - **Full Jacoby & Meyers data:** `Jacoby_Meyers_Reference.md`
-- **Funnel audit:** `ClaimEstimateNow_CA_Mobile_Audit_2026-01-29.md`
+- **Funnel audit:** `00_Archive/ClaimEstimateNow_CA_Mobile_Audit_2026-01-29.md` (archived — former product name)
 - **Optimal question flow:** `Optimal_Question_Flow_2026-01-29.md`
-- **FCC compliance:** `../05_Restrictions/fcc-2025-consent.md`
+- **FCC compliance:** `../05_Restrictions/FCC_2025_Consent.md`

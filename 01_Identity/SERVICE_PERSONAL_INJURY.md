@@ -1,7 +1,7 @@
 # Service Overview: Personal Injury (MVA Focus)
 
 **Last Updated:** February 12, 2026  
-**Status:** Primary service vertical  
+**Status:** Active vertical  
 **Source:** Integrated from leadfaucet.co + internal positioning
 
 ---
@@ -18,15 +18,15 @@ Subtitle: "Predictable case flow for elite PI firms"
 
 ### Core Offering
 
-Geo-exclusive MVA lead generation with pre-qualification, real-time delivery, and intake support for personal injury law firms.
+Geo-exclusive MVA lead generation with pre-qualification, real-time delivery, and intake support for personal injury law firms. Territory exclusivity is structured per DMA (Designated Market Area) as the standard — one firm per DMA. Statewide and custom arrangements are available by negotiation.
 
 **Coverage:**
-- Motor vehicle accidents (primary focus)
+- Motor vehicle accidents (car, motorcycle, truck/semi, rideshare)
 - Slip and fall
 - Medical malpractice
 - Product liability
 
-**MVA is the priority.** It's the highest-volume, most predictable, most economically viable PI vertical.
+**Note:** MVA is the highest-volume PI case type and the best-developed within this vertical. Other PI case types (slip and fall, med mal, product liability) are accepted but less prioritized in current creative and tooling.
 
 ---
 
@@ -34,7 +34,7 @@ Geo-exclusive MVA lead generation with pre-qualification, real-time delivery, an
 
 ### 1. Demand Creation (Geography-Exclusive)
 
-We don't run generic PI ads. We build demand infrastructure within your exclusive territory:
+We don't run generic PI ads. We build demand infrastructure within your exclusive territory — defined by DMA (Designated Market Area) as the standard. One firm per DMA. Statewide arrangements available by negotiation.
 
 - **Consumer-facing tools:** CaseSnapshot (AI-assisted MVA documentation tool)
 - **Creative campaigns:** Earn attention, don't interrupt (content-first, not ad-first)
@@ -116,9 +116,17 @@ We reject leads before you have to:
 
 **Pricing structure:** (Based on geo-exclusive model)
 - Pay per qualified lead delivered
-- Geo-exclusive territory lock (one firm per market)
+- Geo-exclusive territory lock — standard unit is DMA (one firm per DMA)
+- Statewide or multi-DMA bundles available by negotiation
 - No shared leads, no bidding wars
 - Transparent reporting, bad leads credited
+
+**Territory tiers:**
+- Standard: Per-DMA exclusivity — $200–$500/lead depending on market size
+- Bundle: Multi-DMA or regional (10–15% discount vs. individual DMA pricing)
+- Enterprise: Statewide (priced as sum of DMAs in state, not a flat fee)
+
+*See `GEO_EXCLUSIVITY_POLICY.md` for full pricing structure and sales guidance.*
 
 **Economics:**
 - Median PI case value: $16,000 in attorney fees (industry standard)
@@ -134,16 +142,33 @@ We reject leads before you have to:
 
 ## Messaging Hooks (Rational + Emotional)
 
+### The Unique Mechanism (Lead With This)
+
+> **"Case-Ready Leads"** — We don't send you leads. We send you cases.
+
+Case-Ready is the standard Lead Faucet holds every lead to, regardless of case type. Better creative attracts real intent. Tighter funnels screen out noise before intake. And at the top of that standard, our proprietary tools — CaseSnapshot for accident victims, GetMyVisa for immigration applicants — where the case is documented before the attorney ever picks up the phone.
+
+**How to use it in conversation:**
+> "Most lead gen companies deliver a phone number. We deliver a case — pre-screened, pre-qualified, and in the case of CaseSnapshot and GetMyVisa, pre-documented. Your intake team knows what they're getting before the call begins."
+
+**Important:** Don't position Case-Ready as only applying to tool-generated leads. A soft-tissue lead from a quiz funnel is still Case-Ready — the ads and funnels that produced it are better, so the person who shows up is more real, more intentful, and more qualified than anything a competitor sends.
+
+---
+
 ### Rational Hooks (Website)
 
-1. **"Predictable case flow for elite PI firms"**
+1. **"Case-Ready Leads for elite PI firms"**
+   - Every lead held to the Case-Ready standard — soft tissue through catastrophic
+   - Proprietary tools (CaseSnapshot, GetMyVisa) as the proof point of that standard
    - One firm per market
    - 92% acceptance rate
    - $1,600 avg cost per signed case
 
-2. **"MVA, slip and fall, med mal, product liability"**
-   - Pre-qualified claimants with verified injuries
-   - Exclusive to your market
+2. **"The full case spectrum, held to one standard"**
+   - Consistent "keep the lights on" volume: soft tissue, minor fractures, general MVA
+   - Intentional high-value targeting: rideshare (Uber/Lyft), commercial trucking, TBI, wrongful death
+   - Proprietary upstream tools: CaseSnapshot (MVA) and GetMyVisa (immigration)
+   - *Additional verticals:* Mass tort — emerging and active MDL cases, high-volume qualification for pharmaceutical, product liability, and corporate harm litigation *(see SERVICE_OTHER_VERTICALS.md)*
 
 3. **"Over-qualification beats volume"**
    - We reject leads before you have to
@@ -193,7 +218,7 @@ We reject leads before you have to:
 - Mississippi
 
 ### State Bar Compliance
-See: [`05_Restrictions/state-bar-quick-ref.md`](../05_Restrictions/state-bar-quick-ref.md)
+See: [`05_Restrictions/State_Bar_Quick_Ref.md`](../05_Restrictions/State_Bar_Quick_Ref.md)
 
 **Critical rules:**
 - FCC 2025 consent requirements (one-to-one consent, named entities)
@@ -251,14 +276,18 @@ See: [`05_Restrictions/state-bar-quick-ref.md`](../05_Restrictions/state-bar-qui
 ### What Lead Faucet Does Differently
 
 **Our model:**
+- **Case-Ready Leads** — every lead held to a documentation and qualification standard no competitor can match. Proprietary tools (CaseSnapshot, GetMyVisa) are the proof; better ads and funnels are the floor.
+- **Full case spectrum** — soft tissue for consistency, high-value targeting (rideshare, trucking, TBI, wrongful death) for upside. Both held to the same Case-Ready standard.
 - Geo-exclusive (one firm per market, actually enforced)
-- Over-qualification beats volume
-- Proprietary tools (CaseSnapshot) create structural advantage
+- Two-layer system: upstream consumer tools (CaseSnapshot, GetMyVisa) + superior quiz funnels
+- Over-qualification beats volume — we reject leads before you have to
 - Transparent reporting, bad leads credited
 - We help you convert (follow-up intelligence, 60-second response protocol)
 
 **Language:**
-- "Demand infrastructure" not "leads"
+- "Case-Ready Leads" not "quality leads"
+- "We send cases, not contacts" not "we send leads"
+- "Demand infrastructure" not "lead gen"
 - "Elite firms" not "all attorneys"
 - "Predictable case flow" not "get more leads"
 - "We're on your side in the fight" not "buy our leads"
@@ -325,7 +354,7 @@ Victim compensated, attorney collects fee, justice served
 
 ### Operations & Compliance
 - [`05_Restrictions/`](../05_Restrictions/) — State bar rules, FCC compliance, platform rules
-- [`09_Operations/scope-of-work.md`](../09_Operations/scope-of-work.md) — Operational details
+- [`09_Operations/Scope_Of_Work.md`](../09_Operations/Scope_Of_Work.md) — Operational details
 
 ### Creative & Messaging
 - [`03_Voice/AD_MESSAGING_FRAMEWORK.md`](../03_Voice/AD_MESSAGING_FRAMEWORK.md) — How to write ads for this service

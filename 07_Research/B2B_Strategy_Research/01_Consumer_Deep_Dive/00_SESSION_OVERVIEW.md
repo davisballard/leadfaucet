@@ -86,7 +86,7 @@ Deep web research across industry reports, attorney forums, legal marketing publ
 | **Legal Marketing Data** | Hennessey Digital response studies, Taqtics marketing spend, ATRA advertising data, LawProNation lead economics | Channel costs, conversion rates, marketing benchmarks |
 | **Academic Research** | Kahneman & Tversky (Prospect Theory), behavioral science journals, SSRN PI economics papers | Cognitive bias frameworks, decision-making science |
 | **Attorney Voices** | Reddit, Fishbowl, LinkedIn posts, podcast interviews, Solo Practice University, Attorney at Work | First-person accounts, unfiltered emotional reality, language patterns |
-| **Lead Faucet Internal** | BRAND_MASTER.md, funnel-insights.md, scope-of-work.md, Optimal_Question_Flow | Current product positioning, pricing, operations |
+| **Lead Faucet Internal** | BRAND_MASTER.md, Funnel_Insights.md, Scope_Of_Work.md, Optimal_Question_Flow | Current product positioning, pricing, operations |
 
 ### Research Quality Standards
 

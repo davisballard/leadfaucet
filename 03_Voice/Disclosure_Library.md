@@ -102,7 +102,7 @@ condition of purchase. Message and data rates may apply.
 
 ## State-Specific Disclosures
 
-Some states require additional disclosures. Reference `state-bar-quick-ref.md` for:
+Some states require additional disclosures. Reference `State_Bar_Quick_Ref.md` for:
 - California (Rules 7.1-7.5)
 - Texas (high enforcement)
 - Florida (high enforcement)

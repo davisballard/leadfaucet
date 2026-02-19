@@ -200,7 +200,7 @@ Based on research, test these in order:
 1. Pull recommended hex codes into design system
 2. Create A/B test variants for primary CTAs
 3. Apply 60-30-10 rule from Color Palette Generator
-4. Document winner colors in `02_Visual/color-palette.md`
+4. Document winner colors in `02_Visual/Color_Palette.md`
 
 ---
 

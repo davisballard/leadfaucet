@@ -184,7 +184,7 @@ Not all leads are created equal. The delivery model — how the lead gets from t
 
 **Key insight:** The web form model is the workhorse of PI lead gen. It scales with ad spend, is highly measurable, and allows for A/B testing of funnels. The limitation is that the consumer is not on the phone yet — you still have to reach them after they submit.
 
-**Sources:** Lead Faucet funnel-insights.md; Legal Brand Marketing (legalbrandmarketing.com); LawProNation exclusive vs shared analysis (2025)
+**Sources:** Lead Faucet Funnel_Insights.md; Legal Brand Marketing (legalbrandmarketing.com); LawProNation exclusive vs shared analysis (2025)
 
 ---
 
@@ -204,9 +204,9 @@ Not all leads are created equal. The delivery model — how the lead gets from t
 
 **The math:** A $1,000 live transfer that converts at 40% = $2,500 cost per signed case. A $200 form lead that converts at 10% = $2,000 cost per signed case. The form lead is cheaper per case, but the live transfer is more predictable and requires less infrastructure.
 
-**Lead Faucet relevance:** Danny has discussed live transfers as a future opportunity with ~$1,500 per call pricing potential (scope-of-work.md). This is a logical expansion once the form lead infrastructure is mature.
+**Lead Faucet relevance:** Danny has discussed live transfers as a future opportunity with ~$1,500 per call pricing potential (Scope_Of_Work.md). This is a logical expansion once the form lead infrastructure is mature.
 
-**Sources:** LeadingResponse PI live transfer documentation; Mohr Marketing (mohrmktg.com); Lead Faucet scope-of-work.md
+**Sources:** LeadingResponse PI live transfer documentation; Mohr Marketing (mohrmktg.com); Lead Faucet Scope_Of_Work.md
 
 ---
 
@@ -497,7 +497,7 @@ Lead Faucet uses a 6-step quiz funnel on Claim Justice Now that embeds qualifica
 | 5 | "Analyzing your eligibility..." (loading screen) | Loss aversion + curiosity gap | Builds anticipation, makes result feel earned |
 | 6 | Lead capture (name, phone, email) | Sunk cost — user has invested and wants the "result" | Contact information collection |
 
-**Source:** Lead Faucet funnel-insights.md; Optimal_Question_Flow_2026-01-29.md
+**Source:** Lead Faucet Funnel_Insights.md; Optimal_Question_Flow_2026-01-29.md
 
 ### 4.4 Who Does the Screening?
 
@@ -660,7 +660,7 @@ Research on how many contact attempts firms should make:
 | Attempt # | Timing | Method | Notes |
 |-----------|--------|--------|-------|
 | 1 | Within 60 seconds of lead delivery | Phone call | The "gold standard" — 391% higher conversion (InsideSales) |
-| 2 | 60 seconds after attempt 1 if no answer | Phone call | The "double tap" — breaks through DND mode (Lead Faucet funnel-insights.md) |
+| 2 | 60 seconds after attempt 1 if no answer | Phone call | The "double tap" — breaks through DND mode (Lead Faucet Funnel_Insights.md) |
 | 3 | Simultaneous with attempt 1 | SMS text | "Hi [Name], I just received your inquiry about the accident..." |
 | 4-6 | Hours 2, 4, 8 | Phone + email | Varied timing and channels |
 | 7-10 | Days 2-3 | Phone + SMS + email | Multiple touchpoints across channels |
@@ -668,7 +668,7 @@ Research on how many contact attempts firms should make:
 
 **The "double tap" method** (from Danny's operations playbook): Call immediately, then call again 60 seconds later while simultaneously sending an SMS. The rationale: many people have unknown callers silenced; two rapid calls plus a text signals urgency and breaks through filters.
 
-**Sources:** InsideSales Lead Response Study; Lead Faucet funnel-insights.md; eGenerationMarketing follow-up tips; Law Firm Suites infographic; LegalBrandMarketing intake guide
+**Sources:** InsideSales Lead Response Study; Lead Faucet Funnel_Insights.md; eGenerationMarketing follow-up tips; Law Firm Suites infographic; LegalBrandMarketing intake guide
 
 ### 5.5 Lead Tracking and Attribution
 
@@ -749,7 +749,7 @@ Here is the complete journey from lead generation to revenue, with industry benc
 | Funnel Step | Benchmark Rate | Source |
 |-------------|---------------|--------|
 | **Ad → Click** (CTR) | 1-3% for PI on Meta/TikTok; lower on Google Display | Industry benchmarks |
-| **Click → Lead** (Landing page conversion) | 2-5% static forms; 15-25% quiz funnels | Lead Faucet funnel-insights.md |
+| **Click → Lead** (Landing page conversion) | 2-5% static forms; 15-25% quiz funnels | Lead Faucet Funnel_Insights.md |
 | **Lead → Delivered to Firm** | ~99% (delivery failure is a tech problem, not a conversion problem) | Standard |
 | **Delivered → First Contact Attempted** | 74% of firms respond; 26% never try | Hennessey Digital 2025 |
 | **Contact Attempted → Reached** | 40-65% for exclusive leads; 10-15% for shared | LawProNation; Legal Navigator AI |
@@ -878,7 +878,7 @@ The evidence:
 
 3. **We should consider providing intake playbooks** — not just lead data — to protect our reputation and reduce churn.
 
-**Sources:** CaseGen AI (casegen.ai) intake quality analysis; Hennessey Digital studies; InsideSales data; Sanguinesa 2025; Lead Faucet funnel-insights.md (double-tap method)
+**Sources:** CaseGen AI (casegen.ai) intake quality analysis; Hennessey Digital studies; InsideSales data; Sanguinesa 2025; Lead Faucet Funnel_Insights.md (double-tap method)
 
 ---
 
@@ -1072,7 +1072,7 @@ The consumer-side operation:
 | 27 | Mohr Marketing — Live Transfer & Mass Tort Guide | Provider Analysis | mohrmktg.com |
 | 28 | LeadsRain — Ping-Post in Pay-Per-Call | Technology Guide | leadsrain.com/blog/what-is-real-time-bidding-ping-post |
 | 29 | Dialzara — AI vs Manual Lead Qualification | Comparison Analysis | dialzara.com/blog/ai-vs-manual-lead-qualification |
-| 30 | Lead Faucet Internal Docs | Internal | BRAND_MASTER.md; funnel-insights.md; scope-of-work.md; Optimal_Question_Flow |
+| 30 | Lead Faucet Internal Docs | Internal | BRAND_MASTER.md; Funnel_Insights.md; Scope_Of_Work.md; Optimal_Question_Flow |
 
 ---
 

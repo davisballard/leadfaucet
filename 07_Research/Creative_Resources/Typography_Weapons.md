@@ -342,9 +342,9 @@ Before exporting any ad creative:
 
 | Research Finding | Apply To |
 |------------------|----------|
-| Font stack recommendations | `02_Visual/typography.md` |
-| Overlay styles | `02_Visual/overlay-standards.md` |
-| Size guidelines | `06_Ad_Specs/meta-formats.md` |
+| Font stack recommendations | `02_Visual/Typography.md` |
+| Overlay styles | `02_Visual/Overlay_Standards.md` |
+| Size guidelines | `06_Ad_Specs/Meta_Formats.md` |
 | Contrast requirements | Design system documentation |
 
 ---

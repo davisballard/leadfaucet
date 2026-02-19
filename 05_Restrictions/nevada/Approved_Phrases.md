@@ -4,7 +4,7 @@
 > **Saul:** "This is your Nevada-specific copy library. These phrases have been cleared for Nevada's more permissive environment. Some of these would NOT fly in California due to SB37. Use them for Nevada campaigns only."
 >
 > **Client:** Jacoby & Meyers
-> **States:** Nevada (this document) — For CA/CO/WA, use standard approved-phrases.md
+> **States:** Nevada (this document) — For CA/CO/WA, use standard Approved_Phrases.md
 
 ---
 

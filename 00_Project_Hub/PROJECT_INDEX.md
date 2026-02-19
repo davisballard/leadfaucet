@@ -41,7 +41,7 @@
 | File | Description |
 |------|-------------|
 | [`BRAND_POSITIONING_CORE.md`](../01_Identity/BRAND_POSITIONING_CORE.md) | **Complete brand positioning** (rational + emotional layers) |
-| [`BRAND_POSITIONING_CORE_OLD.md`](../01_Identity/BRAND_POSITIONING_CORE_OLD.md) | Previous B2B positioning (preserved for reference) |
+| [`Brand_Positioning_Core_Old.md`](../00_Archive/Brand_Positioning_Core_Old.md) | Previous B2B positioning (archived) |
 | [`SERVICE_PERSONAL_INJURY.md`](../01_Identity/SERVICE_PERSONAL_INJURY.md) | PI service positioning and messaging hooks |
 | [`SERVICE_OTHER_VERTICALS.md`](../01_Identity/SERVICE_OTHER_VERTICALS.md) | Other vertical services framework |
 | [`Consumer_Brand_Names.md`](../01_Identity/Consumer_Brand_Names.md) | Consumer-facing brand naming exploration |
@@ -75,11 +75,11 @@ Key file: `BRAND_DESIGN_SYSTEM.md` - Complete visual identity standards
 | Key Files | Description |
 |-----------|-------------|
 | `AD_MESSAGING_FRAMEWORK.md` | How to apply positioning in ads (templates, techniques) |
-| `approved-phrases.md` | Pre-cleared copy library |
-| `banned-phrases.md` | Blacklisted language |
-| `third-person-rules.md` | Third-person language requirements |
-| `behavioral-copy-triggers.md` | Behavioral science copy principles |
-| `disclosure-library.md` | Legal disclosures |
+| `Approved_Phrases.md` | Pre-cleared copy library |
+| `Banned_Phrases.md` | Blacklisted language |
+| `Third_Person_Rules.md` | Third-person language requirements |
+| `Behavioral_Copy_Triggers.md` | Behavioral science copy principles |
+| `Disclosure_Library.md` | Legal disclosures |
 
 ---
 
@@ -101,9 +101,9 @@ Consumer personas and segmentation research
 
 | Files | Description |
 |-------|-------------|
-| `state-bar-quick-ref.md` | Quick reference for state bar advertising rules |
-| `platform-rules.md` | Platform-specific advertising restrictions |
-| `fcc-2025-consent.md` | FCC consent requirements (2025 update) |
+| `State_Bar_Quick_Ref.md` | Quick reference for state bar advertising rules |
+| `Platform_Rules.md` | Platform-specific advertising restrictions |
+| `FCC_2025_Consent.md` | FCC consent requirements (2025 update) |
 
 **State-specific folders:** `colorado/`, `nevada/`, `washington/`
 
@@ -160,8 +160,8 @@ Dated meeting notes and key decisions
 | Files | Description |
 |-------|-------------|
 | **`DAVIS_ROLE_COMPENSATION_OFFICIAL.md`** | **AUTHORITATIVE: Davis's role, compensation, partnership structure** |
-| `scope-of-work.md` | Team structure overview and quick reference |
-| `active-tasks.md` | Current active tasks and priorities |
+| `Scope_Of_Work.md` | Team structure overview and quick reference |
+| `Active_Tasks.md` | Current active tasks and priorities |
 
 **Subfolder:** `Tools_Scripts/` - Development scripts and virtual environment
 
@@ -228,11 +228,11 @@ This project uses a hierarchical naming system:
 
 | Convention | Usage | Examples |
 |-----------|-------|----------|
-| **SCREAMING_SNAKE_CASE** | Hub documents, master indexes, workflows | `BRAND_MASTER.md`, `RESEARCH_INDEX.md` |
-| **Title_Case** | Strategic documents, research, frameworks | `Brand_Positioning_Strategic_Review.md` |
-| **kebab-case** | Operational/reference files, specs | `state-bar-quick-ref.md`, `approved-phrases.md` |
+| **ALL_CAPS_SNAKE_CASE** | Primary landmark documents, master indexes, workflows | `BRAND_MASTER.md`, `RESEARCH_INDEX.md`, `BRAND_POSITIONING_CORE.md` |
+| **Title_Case_With_Underscores** | All other documents — reference files, research, specs, voice | `Approved_Phrases.md`, `State_Bar_Quick_Ref.md`, `Color_Palette.md` |
+| **YYYY-MM-DD_Title_Case** | Date-prefixed files — meeting notes, sessions, audits | `2026-02-12_Team_Call_Danny_Sasha_Davis.md` |
 
-**Rationale:** File name case signals document importance and function at a glance.
+**Rationale:** ALL_CAPS signals a primary reference document. Title_Case is the standard for everything else. No hyphens — underscores only.
 
 ---
 
@@ -254,10 +254,10 @@ This project uses a hierarchical naming system:
 
 ### Checking Compliance
 
-1. Voice rules: [`../03_Voice/third-person-rules.md`](../03_Voice/third-person-rules.md)
-2. Copy compliance: [`../03_Voice/banned-phrases.md`](../03_Voice/banned-phrases.md)
-3. State rules: [`../05_Restrictions/state-bar-quick-ref.md`](../05_Restrictions/state-bar-quick-ref.md)
-4. Platform rules: [`../05_Restrictions/platform-rules.md`](../05_Restrictions/platform-rules.md)
+1. Voice rules: [`../03_Voice/Third_Person_Rules.md`](../03_Voice/Third_Person_Rules.md)
+2. Copy compliance: [`../03_Voice/Banned_Phrases.md`](../03_Voice/Banned_Phrases.md)
+3. State rules: [`../05_Restrictions/State_Bar_Quick_Ref.md`](../05_Restrictions/State_Bar_Quick_Ref.md)
+4. Platform rules: [`../05_Restrictions/Platform_Rules.md`](../05_Restrictions/Platform_Rules.md)
 
 ### Research Deep Dive
 
@@ -278,7 +278,7 @@ When working on Lead Faucet, you may need to invoke agency experts:
 | **Richard Roma** | `../../09_Dept_Sales/Richard_Roma_(VP_of_Sales)/` | B2B sales, attorney outreach, sales playbooks |
 | **John Hegarty** | `../../02_Dept_Creative_Core/John_Hegarty_(Executive_Creative_Director)/` | Creative direction, bravery checks |
 | **Graham Fink** | `../../02_Dept_Creative_Core/Graham_Fink_(Senior_Art_Director)/` | Art direction, visual/verbal marriage |
-| **Massimo Vignelli** | `../../02_Dept_Creative_Core/Massimo_Vignelli_(Brand_Identity_Designer)/` | Brand identity, logo design |
+| **Massimo Vignelli** | `../../02_Dept_Creative_Core/Massimo_Vignelli_(Brand_Identity_Designer)/` | Visual systems architecture, brand identity, logo design, design tokens |
 
 Full team details in [`AD_CREATION_WORKFLOW.md`](AD_CREATION_WORKFLOW.md)
 

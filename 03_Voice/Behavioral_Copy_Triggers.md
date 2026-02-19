@@ -612,7 +612,7 @@ After quiz completion, acknowledge their investment:
 
 # Related Files
 
-- `03_Voice/approved-phrases.md` — Pre-approved compliant copy
-- `03_Voice/banned-phrases.md` — Never use these
-- `02_Visual/approved-imagery.md` — Visual behavioral playbook
+- `03_Voice/Approved_Phrases.md` — Pre-approved compliant copy
+- `03_Voice/Banned_Phrases.md` — Never use these
+- `02_Visual/Approved_Imagery.md` — Visual behavioral playbook
 - `01_Dept_The_Lab_Strategy/Behavioral_Library/` — Full source studies

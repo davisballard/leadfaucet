@@ -4,7 +4,7 @@
 > 
 > **Sources:** Google Ads documentation, PPC practitioner insights, Reddit r/PPC, agency best practices, and search marketing forums (2025-2026).
 > 
-> **Compliance Layer:** All copy must pass through [`third-person-rules.md`](../03_Voice/third-person-rules.md), [`banned-phrases.md`](../03_Voice/banned-phrases.md), and [`platform-rules.md`](../05_Restrictions/platform-rules.md).
+> **Compliance Layer:** All copy must pass through [`Third_Person_Rules.md`](../03_Voice/Third_Person_Rules.md), [`Banned_Phrases.md`](../03_Voice/Banned_Phrases.md), and [`Platform_Rules.md`](../05_Restrictions/Platform_Rules.md).
 >
 > **Key Difference from Meta:** Google Ads is intent-based (users are actively searching). Copy must match search intent and deliver clear value propositions quickly.
 >
@@ -483,8 +483,8 @@ Same rules apply as Meta:
 
 ## See Also
 
-- [`google-formats.md`](../06_Ad_Specs/google-formats.md) — Full specifications
-- [`approved-phrases.md`](../03_Voice/approved-phrases.md) — Pre-cleared copy
-- [`banned-phrases.md`](../03_Voice/banned-phrases.md) — Blacklisted language
-- [`third-person-rules.md`](../03_Voice/third-person-rules.md) — The "YOU" ban
-- [`platform-rules.md`](../05_Restrictions/platform-rules.md) — Google-specific rules
+- [`Google_Formats.md`](../06_Ad_Specs/Google_Formats.md) — Full specifications
+- [`Approved_Phrases.md`](../03_Voice/Approved_Phrases.md) — Pre-cleared copy
+- [`Banned_Phrases.md`](../03_Voice/Banned_Phrases.md) — Blacklisted language
+- [`Third_Person_Rules.md`](../03_Voice/Third_Person_Rules.md) — The "YOU" ban
+- [`Platform_Rules.md`](../05_Restrictions/Platform_Rules.md) — Google-specific rules

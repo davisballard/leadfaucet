@@ -170,8 +170,8 @@ This is the master framework that organizes ALL content creation around behavior
 ### Audits And Analysis
 | File | Contains | Key Insights |
 |------|----------|--------------|
-| `Audits_And_Analysis/ClaimEstimateNow_Mobile_Audit_2026-01-29.md` | General mobile funnel audit | Landing page, form, thank you page grades |
-| `Audits_And_Analysis/ClaimEstimateNow_CA_Mobile_Audit_2026-01-29.md` | Full mobile funnel audit (CA) | Question flow, compliance, UX improvements |
+| ~~`Audits_And_Analysis/ClaimEstimateNow_Mobile_Audit_2026-01-29.md`~~ | Archived — former product name audit | See `00_Archive/` |
+| ~~`Audits_And_Analysis/ClaimEstimateNow_CA_Mobile_Audit_2026-01-29.md`~~ | Archived — former product name audit (CA) | See `00_Archive/` |
 | `Audits_And_Analysis/Optimal_Question_Flow_2026-01-29.md` | Recommended 6-question flow | Behavioral psychology, micro-copy suggestions |
 
 ---
@@ -221,15 +221,15 @@ This research synthesizes:
 
 | Research File | Updates These Brand Files |
 |---------------|---------------------------|
-| `Strategic_Insights/Copy_Insights.md` | `03_Voice/approved-phrases.md` |
-| `Strategic_Insights/Visual_Insights.md` | `02_Visual/approved-imagery.md` |
-| `Strategic_Insights/Channel_Playbooks.md` | `06_Ad_Specs/meta-formats.md`, `google-formats.md` |
-| `Strategic_Insights/Funnel_Insights.md` | `06_Ad_Specs/landing-page-checklist.md` |
+| `Strategic_Insights/Copy_Insights.md` | `03_Voice/Approved_Phrases.md` |
+| `Strategic_Insights/Visual_Insights.md` | `02_Visual/Approved_Imagery.md` |
+| `Strategic_Insights/Channel_Playbooks.md` | `06_Ad_Specs/Meta_Formats.md`, `Google_Formats.md` |
+| `Strategic_Insights/Funnel_Insights.md` | `06_Ad_Specs/Landing_Page_Checklist.md` |
 | `Creative_Resources/Hooks_And_Angles.md` | Campaign briefs, creative development |
 | `Creative_Resources/Video_Hook_Templates.md` | TikTok/Reels/Shorts video scripts |
-| `Creative_Resources/Color_Weapons.md` | `02_Visual/color-palette.md`, landing page design, CTA optimization |
-| `Creative_Resources/Typography_Weapons.md` | `02_Visual/typography.md`, ad creative templates, overlay standards |
-| `Strategic_Insights/Starter_Pack_Framework.md` | `02_Visual/approved-imagery.md`, geo-campaign briefs, AI image generation |
+| `Creative_Resources/Color_Weapons.md` | `02_Visual/Color_Palette.md`, landing page design, CTA optimization |
+| `Creative_Resources/Typography_Weapons.md` | `02_Visual/Typography.md`, ad creative templates, overlay standards |
+| `Strategic_Insights/Starter_Pack_Framework.md` | `02_Visual/Approved_Imagery.md`, geo-campaign briefs, AI image generation |
 
 ---
 
@@ -365,7 +365,7 @@ Review any new angles from `Creative_Resources/Hooks_And_Angles.md` against `05_
 
 | Role | Start With | Then |
 |------|------------|------|
-| Copywriter | `copy-insights.md` (Word Substitution Matrix) | Loss framing over benefit framing |
-| Art Director | `visual-insights.md` (6 Visual Strategies) | POV perspectives, temporal transformations |
-| Strategist | `content-strategy.md` (Behavioral Foundation) | Trigger hierarchy application |
-| Creative Director | `hooks-and-angles.md` (Behavioral Angles) | Counterfactual, Insider Exposé angles |
+| Copywriter | `Copy_Insights.md` (Word Substitution Matrix) | Loss framing over benefit framing |
+| Art Director | `Visual_Insights.md` (6 Visual Strategies) | POV perspectives, temporal transformations |
+| Strategist | `Content_Strategy.md` (Behavioral Foundation) | Trigger hierarchy application |
+| Creative Director | `Hooks_And_Angles.md` (Behavioral Angles) | Counterfactual, Insider Exposé angles |

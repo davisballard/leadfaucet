@@ -308,7 +308,7 @@ This is the most significant development in PI marketing since Google Ads. AI Ov
 
 **What this means:** The middle is being hollowed out. Firms with strong authority, brand recognition, and high-quality content will get cited in AI answers and may actually gain traffic. Firms with generic "me too" content will lose traffic as AI provides answers directly. This accelerates the divide between large, established firms and smaller competitors.
 
-**Relevance to Lead Faucet:** Lead Faucet already has an AI SEO/GEO strategy (see `ai-seo-geo-strategy.md`). The consumer-facing side matters because AI disruption is pushing PI firms to question their organic strategy -- which creates an opening for lead gen as a more predictable alternative to an increasingly volatile organic landscape.
+**Relevance to Lead Faucet:** Lead Faucet already has an AI SEO/GEO strategy (see `AI_SEO_Geo_Strategy.md`). The consumer-facing side matters because AI disruption is pushing PI firms to question their organic strategy -- which creates an opening for lead gen as a more predictable alternative to an increasingly volatile organic landscape.
 
 *Sources: Semrush, "What to Do About AI Overviews Traffic Loss"; PaperStreet, "Google's AI Overhaul Explained for Law Firms"; TSEG, "Google's AI Overviews Are Changing User Click Behaviors"; Optimize My Firm, "Google AI Overviews Reduces Traffic on Legal Websites"; Search Engine Land, "Google Organic and Paid CTRs Hit New Lows."*
 

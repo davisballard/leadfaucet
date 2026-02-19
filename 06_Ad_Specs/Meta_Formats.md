@@ -78,12 +78,12 @@ This limits:
 - No blood/injury imagery
 - No distressed faces
 - Recovery/hope imagery only
-- See `banned-imagery.md`
+- See `Banned_Imagery.md`
 
 ### Copy Compliance
 - Third-person language only
 - No "you" + injury
-- See `third-person-rules.md`
+- See `Third_Person_Rules.md`
 
 ---
 

@@ -115,7 +115,7 @@ Lead Faucet positioning uses a **fused approach**: rational core (from website) 
 
 **Rational Core (What We Do):**
 - Geo-exclusive demand infrastructure for elite law firms
-- One firm per market, no shared leads
+- One firm per DMA — territory exclusive, not just lead exclusive
 - 92% acceptance rate, $1,600 avg cost per signed case
 - Four-phase system: creation, capture, qualification, delivery
 - Over-qualification beats volume
@@ -156,7 +156,7 @@ Lead Faucet positioning uses a **fused approach**: rational core (from website) 
 | Document | Purpose | When to Load |
 |----------|---------|--------------|
 | **`BRAND_POSITIONING_CORE.md`** | **Complete fused positioning** — rational core + emotional layer, how to use both | Any brand work, ad creation, B2B materials |
-| **`BRAND_POSITIONING_CORE_OLD.md`** | Previous B2B-focused positioning (preserved for reference) | Historical context only |
+| **`00_Archive/Brand_Positioning_Core_Old.md`** | Previous B2B-focused positioning (archived) | Historical context only — see `00_Archive/` |
 | **`BRAND_DESIGN_SYSTEM.md`** | Complete visual system from leadfaucet.co | Visual standards, B2B brand work |
 | **`AD_MESSAGING_FRAMEWORK.md`** | How to apply positioning in ads — templates, techniques | Creating ads, campaigns, content |
 | **`SERVICE_PERSONAL_INJURY.md`** | PI/MVA service details and messaging | PI campaigns, B2B materials |
@@ -169,6 +169,7 @@ Lead Faucet positioning uses a **fused approach**: rational core (from website) 
 | File | Purpose | Load When... |
 |------|---------|--------------|
 | `Brand_Essence.md` | Mission, values, Lead Faucet positioning | Starting any project |
+| `GEO_EXCLUSIVITY_POLICY.md` | **Active geo-exclusivity policy** — DMA standard, pricing tiers, website vs. sales call guidance, Jacoby exception | B2B sales prep, website copy, contract questions |
 | `Partner_Firms.md` | Jacoby, Sink Law profiles for consent forms | Building landing pages |
 | `SERVICE_PERSONAL_INJURY.md` | **PI/MVA service details** — positioning, messaging hooks, customer profile | PI campaigns, B2B materials |
 | `SERVICE_OTHER_VERTICALS.md` | Immigration & Mass Tort service overview | Non-PI campaigns |
@@ -177,42 +178,42 @@ Lead Faucet positioning uses a **fused approach**: rational core (from website) 
 | File | Purpose | Load When... |
 |------|---------|--------------|
 | `BRAND_DESIGN_SYSTEM.md` | **Complete visual system** — colors, typography, design principles (from leadfaucet.co) | B2B brand work, visual standards reference |
-| `typography.md` | Fonts, disclosure minimum sizes | Creating visuals |
-| `color-palette.md` | Brand colors | Any visual work |
-| `video-format-strategy.md` | **Video production: Motion Still + Story Slide + audio rules** | Creating videos |
-| `luca-maxim-format.md` | **Premium cinematic format (15-20s)** — Luca Maxim satirical style, dramatic shots | Hero content, pattern interrupts |
-| `approved-imagery.md` | What visuals work (static + video) | Image generation |
-| `banned-imagery.md` | What gets rejected + AI deepfake rules | Compliance check |
+| `Typography.md` | Fonts, disclosure minimum sizes | Creating visuals |
+| `Color_Palette.md` | Brand colors | Any visual work |
+| `Video_Format_Strategy.md` | **Video production: Motion Still + Story Slide + audio rules** | Creating videos |
+| `Luca_Maxim_Format.md` | **Premium cinematic format (15-20s)** — Luca Maxim satirical style, dramatic shots | Hero content, pattern interrupts |
+| `Approved_Imagery.md` | What visuals work (static + video) | Image generation |
+| `Banned_Imagery.md` | What gets rejected + AI deepfake rules | Compliance check |
 
 ### 03_Voice
 | File | Purpose | Load When... |
 |------|---------|--------------|
 | `AD_MESSAGING_FRAMEWORK.md` | **How to apply rational + emotional positioning in ads** — templates, techniques, channel strategies | Creating any B2B or brand ads |
-| `third-person-rules.md` | The "YOU" ban, translation guide | Every piece of copy |
-| `approved-phrases.md` | Pre-cleared headlines and body copy | Copy creation |
-| `banned-phrases.md` | Instant rejection phrases | Copy QA |
-| `disclosure-library.md` | TCPA consent, required disclaimers | Landing pages, ads |
+| `Third_Person_Rules.md` | The "YOU" ban, translation guide | Every piece of copy |
+| `Approved_Phrases.md` | Pre-cleared headlines and body copy | Copy creation |
+| `Banned_Phrases.md` | Instant rejection phrases | Copy QA |
+| `Disclosure_Library.md` | TCPA consent, required disclaimers | Landing pages, ads |
 
 ### 04_Audience
 | File | Purpose | Load When... |
 |------|---------|--------------|
-| `demographics.md` | PI victim profiles | Targeting, creative direction |
-| `regions.md` | State-specific Bar rules (CA, TX, FL, NY) | Localized campaigns |
-| `injury-types.md` | MVA, workplace, slip-fall case categories | Case-specific campaigns |
+| `Demographics.md` | PI victim profiles | Targeting, creative direction |
+| `Regions.md` | State-specific Bar rules (CA, TX, FL, NY) | Localized campaigns |
+| `Injury_Types.md` | MVA, workplace, slip-fall case categories | Case-specific campaigns |
 
 ### 05_Restrictions
 | File | Purpose | Load When... |
 |------|---------|--------------|
-| `platform-rules.md` | Meta Special Ad Categories, Google legal | Before any campaign |
-| `state-bar-quick-ref.md` | State-specific disclosure requirements | State-targeted ads |
-| `fcc-2025-consent.md` | One-to-one consent requirements | Landing page builds |
+| `Platform_Rules.md` | Meta Special Ad Categories, Google legal | Before any campaign |
+| `State_Bar_Quick_Ref.md` | State-specific disclosure requirements | State-targeted ads |
+| `FCC_2025_Consent.md` | One-to-one consent requirements | Landing page builds |
 
 ### 06_Ad_Specs
 | File | Purpose | Load When... |
 |------|---------|--------------|
-| `meta-formats.md` | Facebook/Instagram specs + restrictions | Meta campaigns |
-| `google-formats.md` | Search, Display, YouTube specs | Google campaigns |
-| `landing-page-checklist.md` | Form requirements, disclosure placement | LP builds |
+| `Meta_Formats.md` | Facebook/Instagram specs + restrictions | Meta campaigns |
+| `Google_Formats.md` | Search, Display, YouTube specs | Google campaigns |
+| `Landing_Page_Checklist.md` | Form requirements, disclosure placement | LP builds |
 
 ### 07_Research
 | File | Purpose | Load When... |
@@ -220,34 +221,34 @@ Lead Faucet positioning uses a **fused approach**: rational core (from website) 
 | `WEBSITE_SCRAPE_RAW_2026-02-12.md` | **Complete leadfaucet.co scrape** — all copy, design, structure | Reference for website updates, understanding current messaging |
 | `MESSAGING_ARCHITECTURE_ANALYSIS.md` | **Website messaging breakdown** — value props, themes, voice analysis | Understanding rational selling approach |
 | `BEHAVIORAL_CONTENT_SYSTEM.md` | **Master content framework** — behavioral levers, power scores | **START HERE for any new content** |
-| `audience-psychology-insights.md` | **Deep audience insights** — Julian Cole methodology, punchy ad-ready lines | Understanding victim psychology, writing hooks |
-| `ai-seo-geo-strategy.md` | **AI SEO / GEO** — Get cited by ChatGPT/Perplexity for $0 traffic | Organic strategy, content for AI extraction |
+| `Audience_Psychology_Insights.md` | **Deep audience insights** — Julian Cole methodology, punchy ad-ready lines | Understanding victim psychology, writing hooks |
+| `AI_SEO_Geo_Strategy.md` | **AI SEO / GEO** — Get cited by ChatGPT/Perplexity for $0 traffic | Organic strategy, content for AI extraction |
 | `RESEARCH_INDEX.md` | Index of all research files | Finding specific research |
-| `starter-pack-framework.md` | Geo-targeted identity imagery system | Regional campaigns |
-| `content-strategy.md` | Master PI lead gen research doc (The Conversion Codex) | Starting strategy, grounding |
-| `channel-playbooks.md` | What works on each platform + channel economics | Channel planning |
-| `copy-insights.md` | Headlines, hooks, CTAs that convert | Writing copy |
-| `visual-insights.md` | Imagery, video styles that perform | Art direction |
-| `hooks-and-angles.md` | Creative angles and approaches | Brainstorming |
-| `funnel-insights.md` | Quiz funnels, landing pages, intake | Building LPs, funnels |
-| `b2b-website-references.md` | **LeadFaucet.co audit + competitor analysis** | Improving B2B website |
+| `Starter_Pack_Framework.md` | Geo-targeted identity imagery system | Regional campaigns |
+| `Content_Strategy.md` | Master PI lead gen research doc (The Conversion Codex) | Starting strategy, grounding |
+| `Channel_Playbooks.md` | What works on each platform + channel economics | Channel planning |
+| `Copy_Insights.md` | Headlines, hooks, CTAs that convert | Writing copy |
+| `Visual_Insights.md` | Imagery, video styles that perform | Art direction |
+| `Hooks_And_Angles.md` | Creative angles and approaches | Brainstorming |
+| `Funnel_Insights.md` | Quiz funnels, landing pages, intake | Building LPs, funnels |
+| `B2B_Website_References.md` | **LeadFaucet.co audit + competitor analysis** | Improving B2B website |
 | `CA_Ads_Stats_Reference.md` | **CA ads master reference** — approved stats, copy, testimonials | CA ad campaigns, landing pages |
 | `Larry_H_Parker_Reference.md` | **Larry H. Parker data** — $2.2B, 95%, testimonials | CA campaigns (Larry H. Parker) |
 | `Jacoby_Meyers_Reference.md` | **Jacoby & Meyers data** — $2B+, 4.6★, testimonials | CA/CO/NV/WA campaigns (Jacoby) |
-| `ClaimEstimateNow_CA_Mobile_Audit_2026-01-29.md` | CA funnel audit | Funnel improvements |
+| ~~`ClaimEstimateNow_CA_Mobile_Audit_2026-01-29.md`~~ | Archived — former product name audit | See `00_Archive/` |
 | `Optimal_Question_Flow_2026-01-29.md` | 6-question flow psychology | Quiz funnel optimization |
 | `WEBSITE_COPY_AUDIT_2026-02-12.md` | **Website copy improvements** — rational + emotional fusion recommendations | Website copy updates |
 
 ### 08_Meeting_Notes
 | File | Purpose | Load When... |
 |------|---------|--------------|
-| `2025-01-14_Creative-Strategy-Funnel-Tools-Deep-Dive.md` | Danny strategy session | Reviewing project context, priorities |
+| `2025-01-14_Creative_Strategy_Funnel_Tools_Deep_Dive.md` | Danny strategy session | Reviewing project context, priorities |
 
 ### 09_Operations
 | File | Purpose | Load When... |
 |------|---------|--------------|
-| `scope-of-work.md` | Davis's role and Danny's expectations | Understanding priorities |
-| `active-tasks.md` | Current tasks and goals | Planning work sessions |
+| `Scope_Of_Work.md` | Davis's role and Danny's expectations | Understanding priorities |
+| `Active_Tasks.md` | Current tasks and goals | Planning work sessions |
 
 ### 10_Ad_Factory
 | File | Purpose | Load When... |
@@ -268,27 +269,27 @@ Lead Faucet positioning uses a **fused approach**: rational core (from website) 
 
 **For Copy Creation:**
 ```
-Load: third-person-rules.md + approved-phrases.md + banned-phrases.md
+Load: Third_Person_Rules.md + Approved_Phrases.md + Banned_Phrases.md
 ```
 
 **For Visual Creation:**
 ```
-Load: typography.md + color-palette.md + approved-imagery.md + banned-imagery.md
+Load: Typography.md + Color_Palette.md + Approved_Imagery.md + Banned_Imagery.md
 ```
 
 **For Landing Page Build:**
 ```
-Load: disclosure-library.md + fcc-2025-consent.md + landing-page-checklist.md
+Load: Disclosure_Library.md + FCC_2025_Consent.md + Landing_Page_Checklist.md
 ```
 
 **For State-Specific Campaign:**
 ```
-Load: regions.md + state-bar-quick-ref.md
+Load: Regions.md + State_Bar_Quick_Ref.md
 ```
 
 **For Compliance Review (Call @Saul):**
 ```
-Load: banned-phrases.md + banned-imagery.md + platform-rules.md
+Load: Banned_Phrases.md + Banned_Imagery.md + Platform_Rules.md
 ```
 
 **For Video Production (Call @Giuseppe_Karma):**
@@ -317,7 +318,7 @@ Load: 03_Dept_Production_Studio/Chester_Prides_(Web_Designer)/B2B_Website_Playbo
 
 **For Brainstorming/New Ideas:**
 ```
-Load: BEHAVIORAL_CONTENT_SYSTEM.md + hooks-and-angles.md
+Load: BEHAVIORAL_CONTENT_SYSTEM.md + Hooks_And_Angles.md
 ```
 
 **For CA Campaigns (Larry H. Parker):**
@@ -327,7 +328,7 @@ Load: CA_Ads_Stats_Reference.md + Larry_H_Parker_Reference.md + Partner_Firms.md
 
 **For Multi-State Campaigns (Jacoby & Meyers):**
 ```
-Load: Jacoby_Meyers_Reference.md + Partner_Firms.md + state-bar-quick-ref.md
+Load: Jacoby_Meyers_Reference.md + Partner_Firms.md + State_Bar_Quick_Ref.md
 ```
 
 **For Behavioral Content Creation (Primary Workflow):**
@@ -342,7 +343,7 @@ Load: RESEARCH_INDEX.md → then specific research files as needed
 
 **For AI SEO / Organic Strategy:**
 ```
-Load: ai-seo-geo-strategy.md → content structures that get cited by AI
+Load: AI_SEO_Geo_Strategy.md → content structures that get cited by AI
 ```
 
 ---
@@ -350,9 +351,9 @@ Load: ai-seo-geo-strategy.md → content structures that get cited by AI
 ## Integration with Saul
 
 This brand hub feeds directly into `@Saul` (05_Dept_Compliance/Saul.md) for compliance reviews:
-- Saul references `banned-phrases.md` for copy checks
-- Saul references `banned-imagery.md` for visual checks
-- Saul pulls from `disclosure-library.md` for landing page audits
+- Saul references `Banned_Phrases.md` for copy checks
+- Saul references `Banned_Imagery.md` for visual checks
+- Saul pulls from `Disclosure_Library.md` for landing page audits
 
 When in doubt: **Better Call Saul.**
 

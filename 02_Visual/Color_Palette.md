@@ -2,7 +2,7 @@
 
 > **Optimized for Ad Performance Based on Research Findings**
 > 
-> Source: `07_Research/visual-insights.md` — Color Psychology for PI
+> Source: `07_Research/Visual_Insights.md` — Color Psychology for PI
 
 ---
 
@@ -409,8 +409,8 @@ Quick reference for building test variants:
 
 ## Related Files
 
-- `02_Visual/typography.md` — Font pairings for these colors
-- `02_Visual/approved-imagery.md` — Image styles that match palette
-- `05_Restrictions/platform-rules.md` — Platform color restrictions
+- `02_Visual/Typography.md` — Font pairings for these colors
+- `02_Visual/Approved_Imagery.md` — Image styles that match palette
+- `05_Restrictions/Platform_Rules.md` — Platform color restrictions
 - `07_Research/Strategic_Insights/Visual_Insights.md` — Source research
 - `07_Research/Creative_Resources/Color_Weapons.md` — A/B testing color arsenal

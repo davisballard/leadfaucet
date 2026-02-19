@@ -1,5 +1,5 @@
 # ClaimJusticeNow Brand Identity System
-**Designed by Massimo Vignelli (Brand Identity Designer)**  
+**Designed by Massimo Vignelli (Visual Systems Architect)**  
 **Date:** February 10, 2026  
 **Brand:** ClaimJusticeNow — Consumer-facing PI Lead Generation
 

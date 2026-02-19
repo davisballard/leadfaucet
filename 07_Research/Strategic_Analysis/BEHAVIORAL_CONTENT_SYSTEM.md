@@ -93,7 +93,7 @@ knowing/confident expression, candid photography, documentary style,
 | + Social Proof | "2,000 [City] residents just like you..." |
 | + Urgency | "Time limit applies for [Regional Type] cases..." |
 
-**Full Framework:** See `starter-pack-framework.md`
+**Full Framework:** See `Starter_Pack_Framework.md`
 
 ---
 
@@ -363,7 +363,7 @@ documentary style, authentic/unpolished aesthetic
 - Feels like real person, not corporation
 - Platform algorithm favors native content
 
-**Research Source:** `visual-insights.md` — ClickFunnels studies, Performance marketing data, Platform algorithm research
+**Research Source:** `Visual_Insights.md` — ClickFunnels studies, Performance marketing data, Platform algorithm research
 
 ### Visual Execution
 
@@ -667,7 +667,7 @@ Scale winners, kill losers within 7 days.
 
 ## HOOKS INTEGRATION
 
-For 200+ fill-in-the-blank video hooks organized by behavioral lever, see `video-hook-templates.md`.
+For 200+ fill-in-the-blank video hooks organized by behavioral lever, see `Video_Hook_Templates.md`.
 
 Each hook in that file can be combined with the visual and execution templates in this document.
 
@@ -677,15 +677,15 @@ Each hook in that file can be combined with the visual and execution templates i
 
 | File | Use For |
 |------|---------|
-| `starter-pack-framework.md` | Deep dive on Identity Salience execution |
-| `visual-insights.md` | Core visual research |
-| `copy-insights.md` | Copy templates and research |
-| `hooks-and-angles.md` | Campaign angle brainstorming |
-| `video-hook-templates.md` | 200 fill-in-the-blank hooks |
-| `color-weapons.md` | Psychology-driven color selection |
-| `typography-weapons.md` | Font and text overlay guidance |
-| `../03_Voice/approved-phrases.md` | Pre-cleared copy (secondary reference) |
-| `../02_Visual/approved-imagery.md` | Green zone imagery |
+| `Starter_Pack_Framework.md` | Deep dive on Identity Salience execution |
+| `Visual_Insights.md` | Core visual research |
+| `Copy_Insights.md` | Copy templates and research |
+| `Hooks_And_Angles.md` | Campaign angle brainstorming |
+| `Video_Hook_Templates.md` | 200 fill-in-the-blank hooks |
+| `Color_Weapons.md` | Psychology-driven color selection |
+| `Typography_Weapons.md` | Font and text overlay guidance |
+| `../03_Voice/Approved_Phrases.md` | Pre-cleared copy (secondary reference) |
+| `../02_Visual/Approved_Imagery.md` | Green zone imagery |
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Research-backed insights on copy that converts for PI lead generation.**
 > 
-> Feed high-performers into `03_Voice/approved-phrases.md`.
+> Feed high-performers into `03_Voice/Approved_Phrases.md`.
 > 
 > **Key Sources:** `Senior_Copywriter/Patrick_Slaughter_PI_Marketing.md`, `Senior_Copywriter/Timothy_Storm_Legal_Compliance.md`
 > 

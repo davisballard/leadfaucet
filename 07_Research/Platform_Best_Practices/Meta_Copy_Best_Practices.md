@@ -4,7 +4,7 @@
 > 
 > **Sources:** Deep research from Reddit r/FacebookAds, r/PPC, r/copywriting, Jon Loomer, AdEspresso, agency blogs, behavioral science studies, and practitioner case studies (2025-2026).
 > 
-> **Compliance Layer:** All copy must pass through [`third-person-rules.md`](../03_Voice/third-person-rules.md), [`banned-phrases.md`](../03_Voice/banned-phrases.md), and [`platform-rules.md`](../05_Restrictions/platform-rules.md).
+> **Compliance Layer:** All copy must pass through [`Third_Person_Rules.md`](../03_Voice/Third_Person_Rules.md), [`Banned_Phrases.md`](../03_Voice/Banned_Phrases.md), and [`Platform_Rules.md`](../05_Restrictions/Platform_Rules.md).
 >
 > **Last Updated:** January 2026
 
@@ -118,7 +118,7 @@ See if a case qualifies for compensation.               ← Soft CTA
 
 ### Third-Person Language (Required)
 
-All Lead Faucet copy must use third-person language per [`third-person-rules.md`](../03_Voice/third-person-rules.md).
+All Lead Faucet copy must use third-person language per [`Third_Person_Rules.md`](../03_Voice/Third_Person_Rules.md).
 
 | ❌ Banned | ✅ Approved |
 |-----------|------------|
@@ -157,7 +157,7 @@ These words are safe and high-performing:
 
 ### Words to Avoid
 
-See [`banned-phrases.md`](../03_Voice/banned-phrases.md) for full list. Key patterns:
+See [`Banned_Phrases.md`](../03_Voice/Banned_Phrases.md) for full list. Key patterns:
 
 - "You" + injury/condition → REJECT
 - "You" + deserve/owed/entitled → REJECT
@@ -599,9 +599,9 @@ Before finalizing any Meta ad copy:
 - [ ] No exploitative language
 - [ ] No "recommend" or "best" claims
 - [ ] Disclosures included where required
-- [ ] Passes [`banned-phrases.md`](../03_Voice/banned-phrases.md) check
-- [ ] Aligned with [`third-person-rules.md`](../03_Voice/third-person-rules.md)
-- [ ] Compliant with [`platform-rules.md`](../05_Restrictions/platform-rules.md)
+- [ ] Passes [`Banned_Phrases.md`](../03_Voice/Banned_Phrases.md) check
+- [ ] Aligned with [`Third_Person_Rules.md`](../03_Voice/Third_Person_Rules.md)
+- [ ] Compliant with [`Platform_Rules.md`](../05_Restrictions/Platform_Rules.md)
 
 ---
 
@@ -618,9 +618,9 @@ Before finalizing any Meta ad copy:
 
 ## See Also
 
-- [`approved-phrases.md`](../03_Voice/approved-phrases.md) — Pre-cleared copy
-- [`banned-phrases.md`](../03_Voice/banned-phrases.md) — Blacklisted language
-- [`third-person-rules.md`](../03_Voice/third-person-rules.md) — The "YOU" ban
-- [`platform-rules.md`](../05_Restrictions/platform-rules.md) — Special Ad Category rules
-- [`copy-insights.md`](./copy-insights.md) — Behavioral science copy framework
-- [`hooks-and-angles.md`](./hooks-and-angles.md) — Hook library
+- [`Approved_Phrases.md`](../03_Voice/Approved_Phrases.md) — Pre-cleared copy
+- [`Banned_Phrases.md`](../03_Voice/Banned_Phrases.md) — Blacklisted language
+- [`Third_Person_Rules.md`](../03_Voice/Third_Person_Rules.md) — The "YOU" ban
+- [`Platform_Rules.md`](../05_Restrictions/Platform_Rules.md) — Special Ad Category rules
+- [`Copy_Insights.md`](./Copy_Insights.md) — Behavioral science copy framework
+- [`Hooks_And_Angles.md`](./Hooks_And_Angles.md) — Hook library

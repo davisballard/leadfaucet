@@ -129,7 +129,7 @@ All in three words.
 
 ## Logo Development
 
-**Designer:** Massimo Vignelli (Brand Identity Designer)  
+**Designer:** Massimo Vignelli (Visual Systems Architect)  
 **Date:** February 10, 2026  
 **Status:** In Development
 

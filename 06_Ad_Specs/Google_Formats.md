@@ -11,7 +11,7 @@
 | **Final URL** | 1 | Landing page URL |
 
 ### Recommended Headlines
-Use approved phrases from `approved-phrases.md`:
+Use approved phrases from `Approved_Phrases.md`:
 - "Car Accident Cases Being Accepted"
 - "Speak With an Attorney Today"
 - "Free Case Evaluation"
@@ -89,12 +89,12 @@ Use approved phrases from `approved-phrases.md`:
 - No injury/medical imagery
 - May trigger healthcare filter
 - Stick to abstract legal symbols
-- See `banned-imagery.md`
+- See `Banned_Imagery.md`
 
 ### Copy Compliance
 - Third-person language only
 - Qualified claims only
-- See `third-person-rules.md`
+- See `Third_Person_Rules.md`
 
 ---
 

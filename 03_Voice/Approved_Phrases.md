@@ -1,12 +1,38 @@
 # Approved Phrases
 
+## UNIQUE MECHANISM PHRASES (Use These First — B2B Only)
+
+> These are Lead Faucet's ownable, competitor-proof positioning phrases. Lead with these in all B2B (attorney-facing) communications.
+
+**How to think about "Case-Ready":**
+Case-Ready is a standard of delivery, not a description of case type or lead source. Every lead — soft tissue quiz-funnel lead or CaseSnapshot-documented MVA — is held to the Case-Ready standard. The standard is: real intent, real screening, real qualification. CaseSnapshot and GetMyVisa are the proof point of that standard at its highest expression. They demonstrate what Case-Ready looks like in documentation form. Do NOT use Case-Ready to imply Lead Faucet only delivers tool-generated or high-value leads.
+
+**Two axes, never conflate them:**
+- *What* Lead Faucet delivers: the full case spectrum (soft tissue through catastrophic)
+- *How* Lead Faucet delivers it: the Case-Ready standard (better ads, better funnels, and proprietary tools as proof)
+
+- **"Case-Ready Leads"** — the primary mechanism phrase (applies to all lead types)
+- **"The Case-Ready Pipeline"** — system-level variant
+- "We don't send you leads. We send you cases."
+- "Most lead gen companies deliver a phone number. We deliver a case — pre-screened, pre-qualified, and documented."
+- "Pre-documented, pre-qualified, ready for intake."
+- "The industry sends names. We send cases."
+- "We hold every lead — soft tissue to wrongful death — to the same Case-Ready standard."
+- "We're not padding your volume with slop. Everything that reaches your intake team is worth your time."
+- "Better ads attract real intent. Better funnels screen out the noise. That's Case-Ready."
+- "CaseSnapshot and GetMyVisa — two consumer tools that document the case before the attorney picks up the phone."
+
+**Source:** `07_Research/Strategic_Analysis/Unique_Mechanism_Session_2026-02-18.md`
+
+---
+
 > **Sources:** Saul.md Section 8 Translation Guide + 07_Research/Strategic_Insights/Copy_Insights.md + Senior_Copywriter/Patrick_Slaughter_PI_Marketing.md
 > 
 > Pre-cleared copy that has passed compliance review. Includes high-performing hooks from campaign research.
 >
-> **Scope:** Motor Vehicle Accidents (MVA) Only — Car, Motorcycle, Truck, Rideshare
+> **Scope:** Three verticals — Personal Injury/MVA (car, motorcycle, truck, rideshare, TBI, wrongful death), Immigration (GetMyVisa — 12 visa categories), and Mass Tort (emerging/active MDL — pharmaceutical, product liability, corporate harm)
 >
-> 📘 **See Also:** [`behavioral-copy-triggers.md`](behavioral-copy-triggers.md) for psychological principles behind each phrase type.
+> 📘 **See Also:** [`Behavioral_Copy_Triggers.md`](Behavioral_Copy_Triggers.md) for psychological principles behind each phrase type.
 > 
 > ---
 > 

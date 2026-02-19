@@ -1,7 +1,7 @@
 # ClaimJusticeNow Logo Design Brief
 
 **Brand:** ClaimJusticeNow (Consumer-facing PI Lead Generation)  
-**Designer:** Massimo Vignelli (Brand Identity Designer)  
+**Designer:** Massimo Vignelli (Visual Systems Architect)  
 **Date:** February 10, 2026  
 **Status:** Final Refinement Phase
 

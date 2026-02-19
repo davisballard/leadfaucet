@@ -330,7 +330,7 @@
 
 ## Related Files
 
-- `../09_Operations/active-tasks.md` — Task to build competitor analysis
-- `channel-playbooks.md` — Marketing strategy context
-- `funnel-insights.md` — Landing page best practices
-- `../08_Meeting_Notes/2025-01-14_Creative-Strategy-Funnel-Tools-Deep-Dive.md` — Competitor discussion
+- `../09_Operations/Active_Tasks.md` — Task to build competitor analysis
+- `Channel_Playbooks.md` — Marketing strategy context
+- `Funnel_Insights.md` — Landing page best practices
+- `../08_Meeting_Notes/2025-01-14_Creative_Strategy_Funnel_Tools_Deep_Dive.md` — Competitor discussion

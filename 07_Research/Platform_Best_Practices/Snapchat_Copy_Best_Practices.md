@@ -6,7 +6,7 @@
 > 
 > **Critical Platform Insight:** Snapchat users expect fast, visual-first content. Full-screen vertical experiences rule.
 >
-> **Compliance Layer:** All copy must pass through [`third-person-rules.md`](../03_Voice/third-person-rules.md), [`banned-phrases.md`](../03_Voice/banned-phrases.md), and [`platform-rules.md`](../05_Restrictions/platform-rules.md).
+> **Compliance Layer:** All copy must pass through [`Third_Person_Rules.md`](../03_Voice/Third_Person_Rules.md), [`Banned_Phrases.md`](../03_Voice/Banned_Phrases.md), and [`Platform_Rules.md`](../05_Restrictions/Platform_Rules.md).
 >
 > **Demographic Note:** Snapchat skews 18-34. Messaging should resonate with younger MVA victims (rideshare accidents, new drivers, commuters).
 >
@@ -411,8 +411,8 @@ Like TikTok, polished corporate content underperforms.
 
 ## See Also
 
-- [`snapchat-formats.md`](../06_Ad_Specs/snapchat-formats.md) — Full specifications
-- [`approved-phrases.md`](../03_Voice/approved-phrases.md) — Pre-cleared copy
-- [`banned-phrases.md`](../03_Voice/banned-phrases.md) — Blacklisted language
-- [`third-person-rules.md`](../03_Voice/third-person-rules.md) — The "YOU" ban
-- [`platform-rules.md`](../05_Restrictions/platform-rules.md) — Platform-specific rules
+- [`Snapchat_Formats.md`](../06_Ad_Specs/Snapchat_Formats.md) — Full specifications
+- [`Approved_Phrases.md`](../03_Voice/Approved_Phrases.md) — Pre-cleared copy
+- [`Banned_Phrases.md`](../03_Voice/Banned_Phrases.md) — Blacklisted language
+- [`Third_Person_Rules.md`](../03_Voice/Third_Person_Rules.md) — The "YOU" ban
+- [`Platform_Rules.md`](../05_Restrictions/Platform_Rules.md) — Platform-specific rules

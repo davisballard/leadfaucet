@@ -350,7 +350,7 @@ Text overlays and graphic elements can **dramatically improve ad performance** w
 - [ ] **Text coverage** — Under 20% of image
 - [ ] **Font legible** — Bold sans-serif, readable on mobile
 - [ ] **CTA included** — Clear action verb + benefit
-- [ ] **Brand colors used** — Per color-palette.md
+- [ ] **Brand colors used** — Per Color_Palette.md
 - [ ] **Platform appropriate** — Meets Meta/Google requirements
 
 ### Split Test Checklist:
@@ -366,8 +366,8 @@ Text overlays and graphic elements can **dramatically improve ad performance** w
 
 ## Related Files
 
-- `02_Visual/color-palette.md` — Brand colors for overlays
-- `02_Visual/typography.md` — Font specifications
+- `02_Visual/Color_Palette.md` — Brand colors for overlays
+- `02_Visual/Typography.md` — Font specifications
 - `10_Ad_Factory/AI_IMAGE_GUIDELINES.md` — Image generation rules
 - `../Creative_Resources/Hooks_And_Angles.md` — Message angles for overlays
 

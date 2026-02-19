@@ -526,9 +526,9 @@ The lawyers can vary — they're new characters. The FAMILY must match.
 | File | Purpose |
 |------|---------|
 | `Boardroom_Concept_2026-02-02.md` | Original concept for A/B comparison — assets to reuse |
-| `../../04_Audience/colorado-targeting.md` | Maria archetype, zip codes |
-| `../../02_Visual/video-format-strategy.md` | Story Slide specs, audio mixing |
-| `../../03_Voice/third-person-rules.md` | Compliance language |
+| `../../04_Audience/Colorado_Targeting.md` | Maria archetype, zip codes |
+| `../../02_Visual/Video_Format_Strategy.md` | Story Slide specs, audio mixing |
+| `../../03_Voice/Third_Person_Rules.md` | Compliance language |
 
 ---
 

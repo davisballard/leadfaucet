@@ -124,6 +124,7 @@ RATIONAL PITCH + EMOTIONAL CONTEXT = COMPLETE MESSAGE
 > - Have intake infrastructure in place
 > - Think in cost per signed case, not cost per lead
 > - Want predictability over hype
+> - Practice focus: personal injury (MVA, rideshare, trucking, TBI, wrongful death), immigration, or mass tort (MDL/high-volume qualification)
 >
 > **We don't work with:**
 > - Price shoppers looking for cheapest CPL
@@ -235,6 +236,10 @@ RATIONAL PITCH + EMOTIONAL CONTEXT = COMPLETE MESSAGE
 - Close with clear CTA
 
 **Language:**
+- **"Case-Ready Leads"** ← the unique mechanism; applies to all lead types (soft tissue through catastrophic)
+- **"We send cases, not contacts"** ← the contrast line (the standard, not just tool-generated leads)
+- **"CaseSnapshot and GetMyVisa"** ← always name both as proof points; never name one without the other
+- **"We deliver a CaseSnapshot PDF"** ← specific proof of the documentation standard for tool-generated leads
 - "Geo-exclusive demand infrastructure"
 - "One firm per market"
 - "92% acceptance rate"
@@ -387,7 +392,14 @@ Check if [YOUR CITY] is available →
 
 **What others do vs. What we do**
 
-**Examples:**
+**The primary contrast (use this first):**
+> "Most lead gen companies deliver a phone number. We deliver a case — pre-screened, pre-qualified, and, through CaseSnapshot and GetMyVisa, pre-documented before intake begins."
+
+> "The industry sends names. We send cases — held to the Case-Ready standard across every case type."
+
+**Note on scope:** The contrast applies to all leads, not just tool-generated ones. Even a standard soft-tissue quiz-funnel lead from Lead Faucet is more intentful and better screened than what any competitor sends. CaseSnapshot and GetMyVisa are the proof point of the Case-Ready standard at its highest expression — not the only way leads are Case-Ready.
+
+**Supporting contrasts:**
 > "Most lead gen companies sell contact information. We build demand infrastructure. There's a difference."
 
 > "They sell to anyone with a budget. We partner with elite firms only. Scarcity is strategic."

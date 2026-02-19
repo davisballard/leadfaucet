@@ -294,6 +294,6 @@
 
 ## Related Documents
 
-- [`BRAND_POSITIONING_CORE_OLD.md`](../../BRAND_POSITIONING_CORE_OLD.md) — B2B positioning with emotional depth
+- [`Brand_Positioning_Core_Old.md`](../../00_Archive/Brand_Positioning_Core_Old.md) — B2B positioning with emotional depth (archived)
 - [`Website_Scrape_Raw_2026-02-12.md`](Website_Scrape_Raw_2026-02-12.md) — Raw scrape data
 - [`02_Visual/BRAND_DESIGN_SYSTEM.md`](../../02_Visual/BRAND_DESIGN_SYSTEM.md) — Visual brand standards

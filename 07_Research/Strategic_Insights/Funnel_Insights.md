@@ -2,7 +2,7 @@
 
 > **The architecture of conversion: Quiz funnels, landing pages, and intake optimization.**
 > 
-> Feed insights into `06_Ad_Specs/landing-page-checklist.md` and intake processes.
+> Feed insights into `06_Ad_Specs/Landing_Page_Checklist.md` and intake processes.
 
 ---
 

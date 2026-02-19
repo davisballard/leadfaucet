@@ -474,9 +474,9 @@
 - `06_Brands/Lead_Faucet/07_Research/Strategic_Insights/Funnel_Insights.md`
 - `06_Brands/Lead_Faucet/07_Research/Strategic_Insights/Audience_Psychology_Insights.md`
 
-**Related Audits:**
-- `ClaimEstimateNow_CA_Mobile_Audit_2026-01-29.md`
-- `ClaimEstimateNow_Mobile_Audit_2026-01-29.md` (Nevada)
+**Related Audits (Archived):**
+- `00_Archive/ClaimEstimateNow_CA_Mobile_Audit_2026-01-29.md`
+- `00_Archive/ClaimEstimateNow_Mobile_Audit_2026-01-29.md` (Nevada)
 
 ---
 

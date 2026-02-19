@@ -63,7 +63,7 @@ Different platforms require different psychological trigger emphasis:
 
 ## AI SEO / Generative Engine Optimization (GEO)
 
-> **Full strategy:** See `ai-seo-geo-strategy.md`
+> **Full strategy:** See `AI_SEO_Geo_Strategy.md`
 
 ### The Opportunity
 
@@ -246,7 +246,7 @@ Due to privacy changes (cookie loss), hyper-targeting is less effective.
 ## Meta (Facebook/Instagram)
 
 ### Special Ad Categories Reminder
-All Lead Faucet ads = Special Ad Categories. See `05_Restrictions/platform-rules.md`.
+All Lead Faucet ads = Special Ad Categories. See `05_Restrictions/Platform_Rules.md`.
 
 ### Retargeting Limitations
 

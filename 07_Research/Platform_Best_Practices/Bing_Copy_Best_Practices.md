@@ -6,7 +6,7 @@
 > 
 > **Critical Platform Insight:** Bing users skew older (35-65), more affluent, and are often in decision-making roles. Lower competition than Google typically means better CPL.
 >
-> **Compliance Layer:** All copy must pass through [`third-person-rules.md`](../03_Voice/third-person-rules.md), [`banned-phrases.md`](../03_Voice/banned-phrases.md), and [`platform-rules.md`](../05_Restrictions/platform-rules.md).
+> **Compliance Layer:** All copy must pass through [`Third_Person_Rules.md`](../03_Voice/Third_Person_Rules.md), [`Banned_Phrases.md`](../03_Voice/Banned_Phrases.md), and [`Platform_Rules.md`](../05_Restrictions/Platform_Rules.md).
 >
 > **Workflow Note:** Microsoft Ads allows direct import from Google Ads. Build for Google first, then optimize for Bing's older audience.
 >
@@ -373,9 +373,9 @@ Bing users are more likely to call than click.
 
 ## See Also
 
-- [`bing-formats.md`](../06_Ad_Specs/bing-formats.md) — Full specifications
-- [`google-copy-best-practices.md`](./google-copy-best-practices.md) — Base for import
-- [`approved-phrases.md`](../03_Voice/approved-phrases.md) — Pre-cleared copy
-- [`banned-phrases.md`](../03_Voice/banned-phrases.md) — Blacklisted language
-- [`third-person-rules.md`](../03_Voice/third-person-rules.md) — The "YOU" ban
-- [`platform-rules.md`](../05_Restrictions/platform-rules.md) — Platform-specific rules
+- [`Bing_Formats.md`](../06_Ad_Specs/Bing_Formats.md) — Full specifications
+- [`Google_Copy_Best_Practices.md`](./Google_Copy_Best_Practices.md) — Base for import
+- [`Approved_Phrases.md`](../03_Voice/Approved_Phrases.md) — Pre-cleared copy
+- [`Banned_Phrases.md`](../03_Voice/Banned_Phrases.md) — Blacklisted language
+- [`Third_Person_Rules.md`](../03_Voice/Third_Person_Rules.md) — The "YOU" ban
+- [`Platform_Rules.md`](../05_Restrictions/Platform_Rules.md) — Platform-specific rules

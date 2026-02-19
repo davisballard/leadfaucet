@@ -31,5 +31,5 @@ Consumer-facing brand for Lead Faucet's personal injury lead generation service.
 
 ---
 
-**Designer:** Massimo Vignelli (Brand Identity Designer)  
+**Designer:** Massimo Vignelli (Visual Systems Architect)  
 **Date:** February 10, 2026

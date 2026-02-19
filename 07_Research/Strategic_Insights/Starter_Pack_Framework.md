@@ -4,8 +4,8 @@
 > 
 > Research-backed framework for creating geo-targeted, identity-activating ad imagery that stops scrolls while staying compliant.
 > 
-> **Related files:** `visual-insights.md`, `hooks-and-angles.md`, `color-weapons.md`
-> **Compliance:** All imagery reviewed against `../02_Visual/banned-imagery.md` and `@Saul` protocols
+> **Related files:** `Visual_Insights.md`, `Hooks_And_Angles.md`, `Color_Weapons.md`
+> **Compliance:** All imagery reviewed against `../02_Visual/Banned_Imagery.md` and `@Saul` protocols
 
 ---
 
@@ -234,7 +234,7 @@ From Cognitive Ease research: *"Contextual cues improve recall"*
 ---
 
 #### 3. THE "PATTERN INTERRUPT" COMPOSITION
-From approved-imagery.md: *"Unusual composition creates pattern interrupt"*
+From Approved_Imagery.md: *"Unusual composition creates pattern interrupt"*
 
 **Options:**
 - Extreme close-up on face (unusual for legal ads)
@@ -408,7 +408,7 @@ Before producing any "Starter Pack" image:
 Use this framework to build region-specific starter pack databases. Each geo campaign should have its own archetype sheet before production begins.
 
 ### @Senior_Copywriter
-Use the text overlay templates in conjunction with `hooks-and-angles.md`. Pair identity-charged visuals with identity-charged copy.
+Use the text overlay templates in conjunction with `Hooks_And_Angles.md`. Pair identity-charged visuals with identity-charged copy.
 
 ### @Head_of_Performance
 Test different archetypes within the same geo. "Austin Tech Mom" vs "Austin Construction Foreman" — let data decide which converts.
@@ -420,13 +420,13 @@ Review new regional archetypes before production. Flag any that lean into medica
 
 ## Related Files
 
-- `visual-insights.md` — Core visual research (lo-fi revolution, candid photography)
-- `hooks-and-angles.md` — Campaign angles to pair with these visuals
-- `color-weapons.md` — Hex codes for text overlays and CTAs
-- `typography-weapons.md` — Font stacks for text-on-image
-- `../02_Visual/approved-imagery.md` — Full approved imagery playbook
-- `../02_Visual/banned-imagery.md` — What will get rejected
-- `../04_Audience/regions.md` — State-specific compliance notes
+- `Visual_Insights.md` — Core visual research (lo-fi revolution, candid photography)
+- `Hooks_And_Angles.md` — Campaign angles to pair with these visuals
+- `Color_Weapons.md` — Hex codes for text overlays and CTAs
+- `Typography_Weapons.md` — Font stacks for text-on-image
+- `../02_Visual/Approved_Imagery.md` — Full approved imagery playbook
+- `../02_Visual/Banned_Imagery.md` — What will get rejected
+- `../04_Audience/Regions.md` — State-specific compliance notes
 
 ---
 

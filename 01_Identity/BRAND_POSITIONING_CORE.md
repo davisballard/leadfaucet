@@ -51,6 +51,71 @@ When you partner with Lead Faucet, you own your geography. Every qualified case 
 - Complete market control within your territory
 - Long-term ROI protection
 
+### The Unique Mechanism: "Case-Ready Leads"
+
+**This is the phrase Lead Faucet owns. No competitor can claim it without building what we've built.**
+
+> *"We don't send you leads. We send you cases — pre-documented, pre-qualified, ready for intake. Most lead gen companies deliver a phone number. We deliver a CaseSnapshot PDF."*
+
+**Case-Ready is a standard of delivery, not a case type or tier.**
+
+It describes how every lead leaves Lead Faucet — more qualified, more screened, more intentful than anything else in the category. It applies across the full case spectrum, from soft tissue to wrongful death.
+
+---
+
+#### AXIS 1: WHAT WE DELIVER — The Case Type Spectrum
+
+Lead Faucet delivers across the full PI and immigration case spectrum. Case value is determined by the injury and coverage situation — not by how the lead was generated.
+
+**"Keep the Lights On" cases** — high volume, consistent, the rhythm that keeps a practice alive:
+- Soft tissue (whiplash, neck/back strain, sprains) — avg ~$17,500
+- Minor fractures (full recovery) — $45K–$80K
+- Low-severity back injuries — $35K–$75K
+- Minor pedestrian/cyclist — $10K–$75K
+- General MVA with documented injuries
+
+**"Build the Firm" cases** — specifically targeted, higher coverage, cases that change trajectory:
+- Commercial truck/18-wheeler — $100K–$1M+ (federal min insurance $750K–$1M)
+- Rideshare (Uber/Lyft) — stacked insurance layers, $1M Uber/Lyft commercial policy
+- Serious spinal/back injuries — $200K–$3.6M+
+- Traumatic Brain Injury (TBI) — $50K–$10M+
+- Wrongful death — $250K–several million
+- Motorcycle accidents — $66K–$2.3M
+- Surgery-level fractures — $80K–$1M+
+- Serious pedestrian/cyclist — $150K–$1M+
+- Immigration cases (family petitions, employment visas, asylum, naturalization)
+- Mass tort cases (emerging and active MDL litigation — pharmaceutical, product liability, corporate harm — high-volume qualification at scale)
+
+---
+
+#### AXIS 2: HOW WE DELIVER IT — The Case-Ready Standard
+
+**Layer 1 — Superior quiz funnels and demand capture**
+Better creative attracts real intent. Tighter qualification screens out noise before intake. Every lead — regardless of case type — arrives more intentful and better screened than what any competitor sends.
+
+**Layer 2 — Proprietary consumer tools (the proof point)**
+- **CaseSnapshot** (casesnapshot.com) — Free AI-assisted tool for MVA victims. Documents case in five minutes: injury, liability, treatment. Professional PDF delivered with the lead. Attorney knows what they're getting before the call begins.
+- **GetMyVisa** (getmyvisa.co) — Multi-language guided intake for immigration applicants. 12 visa categories. Applicant is pre-qualified and documented before attorney contact.
+
+Both tools are upstream of everything else in the category. No other legal lead gen company builds consumer-facing documentation tools. Competitors cannot claim this without building what Lead Faucet has built.
+
+**Critical:** CaseSnapshot and GetMyVisa are proof points of the Case-Ready documentation standard — not indicators of case value. A CaseSnapshot soft-tissue lead is still a soft-tissue case. The value comes from the injury. The differentiator is the documentation.
+
+---
+
+**Why "Case-Ready" is defensible:**
+- **Specific.** Not "quality leads" — case-ready. Immediately understood.
+- **Provable.** CaseSnapshot and GetMyVisa produce actual documentation before attorney contact.
+- **Competitor-proof.** No other legal lead gen company builds consumer-facing tools. Can't be claimed without building what we've built.
+- **Emotionally true.** Solves the fear every PI attorney carries: *"Am I going to waste my intake team's time on this?"*
+- **Universal.** The standard applies to every lead type — soft tissue through catastrophic.
+
+**System-level variant:** "The Case-Ready Pipeline"
+
+**Source:** `07_Research/Strategic_Analysis/Unique_Mechanism_Session_2026-02-18.md`
+
+---
+
 ### Key Differentiators (vs. Every Other Lead Gen Company)
 
 | Dimension | Competitors | Lead Faucet |
@@ -61,7 +126,9 @@ When you partner with Lead Faucet, you own your geography. Every qualified case 
 | **Transparency** | Spin problems, blame attorneys | Bad weeks reported early |
 | **Relationship** | Vendor | Strategic partner |
 | **Selectivity** | Work with everyone | "We don't work with every firm" |
-| **Tools** | Ads only | Proprietary consumer tools (CaseSnapshot) |
+| **Lead type** | A name and a phone number | A case — pre-documented, case-ready |
+| **Tools** | Ads only | Proprietary consumer tools (CaseSnapshot, GetMyVisa) |
+| **Unique mechanism** | None ownable | "Case-Ready Leads" — the Case-Ready Pipeline |
 
 ### The Four-Phase System
 
@@ -228,6 +295,11 @@ RATIONAL PITCH + EMOTIONAL CONTEXT = COMPLETE POSITIONING
 
 ### What Lead Faucet Says (The Signal)
 
+**The Unique Mechanism:**
+- "We don't send you leads. We send you cases."
+- "Case-Ready Leads. One firm per market."
+- "Most lead gen companies deliver a phone number. We deliver a CaseSnapshot PDF."
+
 **Rational:**
 - "We build geo-exclusive demand infrastructure"
 - "One firm per market. No exceptions."
@@ -240,7 +312,7 @@ RATIONAL PITCH + EMOTIONAL CONTEXT = COMPLETE POSITIONING
 - "So you can focus on fighting for people, not stressing about pipeline"
 
 **Fused:**
-We provide the infrastructure that creates certainty in a profession built on contingency—so elite PI attorneys can focus on what they do best: fighting for people against corporations with unlimited resources.
+We provide the infrastructure that creates certainty in a profession built on contingency—so elite PI attorneys can focus on what they do best: fighting for people against corporations with unlimited resources. And unlike every other lead gen company, we send cases, not contacts — pre-documented, case-ready, before intake ever begins.
 
 ---
 
@@ -398,7 +470,7 @@ You sleep through the night because you're not doing pipeline math at 2 AM. You 
 
 ### Core Brand Files
 - [`BRAND_MASTER.md`](BRAND_MASTER.md) — Brand hub and quick reference
-- [`BRAND_POSITIONING_CORE_OLD.md`](BRAND_POSITIONING_CORE_OLD.md) — Previous B2B-focused positioning (preserved for reference)
+- [`Brand_Positioning_Core_Old.md`](../00_Archive/Brand_Positioning_Core_Old.md) — Previous B2B-focused positioning (archived)
 
 ### Supporting Research
 - [`Messaging_Architecture_Analysis.md`](07_Research/Strategic_Analysis/Messaging_Architecture_Analysis.md) — Website messaging breakdown

@@ -6,7 +6,7 @@
 > 
 > **Critical Platform Insight:** TikTok rewards authenticity. Polished, corporate ads underperform. Native, lo-fi content wins.
 >
-> **Compliance Layer:** All copy must pass through [`third-person-rules.md`](../03_Voice/third-person-rules.md), [`banned-phrases.md`](../03_Voice/banned-phrases.md), and [`platform-rules.md`](../05_Restrictions/platform-rules.md).
+> **Compliance Layer:** All copy must pass through [`Third_Person_Rules.md`](../03_Voice/Third_Person_Rules.md), [`Banned_Phrases.md`](../03_Voice/Banned_Phrases.md), and [`Platform_Rules.md`](../05_Restrictions/Platform_Rules.md).
 >
 > **Special Note:** Legal services are heavily restricted on TikTok. Test cautiously.
 >
@@ -511,9 +511,9 @@ Techniques and principles that apply across all TikTok ad copy.
 
 ## See Also
 
-- [`tiktok-formats.md`](../06_Ad_Specs/tiktok-formats.md) — Full specifications
-- [`copy-insights.md`](./copy-insights.md) — Hook archetypes and formulas
-- [`approved-phrases.md`](../03_Voice/approved-phrases.md) — Pre-cleared copy
-- [`banned-phrases.md`](../03_Voice/banned-phrases.md) — Blacklisted language
-- [`third-person-rules.md`](../03_Voice/third-person-rules.md) — The "YOU" ban
-- [`platform-rules.md`](../05_Restrictions/platform-rules.md) — TikTok restrictions
+- [`TikTok_Formats.md`](../06_Ad_Specs/TikTok_Formats.md) — Full specifications
+- [`Copy_Insights.md`](./Copy_Insights.md) — Hook archetypes and formulas
+- [`Approved_Phrases.md`](../03_Voice/Approved_Phrases.md) — Pre-cleared copy
+- [`Banned_Phrases.md`](../03_Voice/Banned_Phrases.md) — Blacklisted language
+- [`Third_Person_Rules.md`](../03_Voice/Third_Person_Rules.md) — The "YOU" ban
+- [`Platform_Rules.md`](../05_Restrictions/Platform_Rules.md) — TikTok restrictions

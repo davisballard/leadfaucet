@@ -2,7 +2,7 @@
 
 > **Research-backed insights on imagery and video that converts for PI lead generation.**
 > 
-> Feed high-performers into `02_Visual/approved-imagery.md`.
+> Feed high-performers into `02_Visual/Approved_Imagery.md`.
 > 
 > **Last Updated:** January 2026 — Industry Research Integration Complete
 
@@ -588,7 +588,7 @@ Lead forms must now display the **specific law firm** that will contact the user
 
 For creating hyper-specific "starter pack" style imagery that activates regional/demographic identity:
 
-**See:** `starter-pack-framework.md`
+**See:** `Starter_Pack_Framework.md`
 
 This framework covers:
 - Regional archetype databases (what "Bend Oregon Dad" or "Austin Tech Mom" looks like)

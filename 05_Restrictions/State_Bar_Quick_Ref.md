@@ -177,8 +177,8 @@ Review NY Bar rules before state-specific campaigns.
 For full Nevada compliance guidance:
 - `Rulebook/06_Nevada_State_Rules.md` — Complete Nevada rules
 - `Rulebook/07_State_Comparison_Matrix.md` — State-by-state comparison
-- `05_Restrictions/nevada/approved-phrases.md` — Nevada-specific copy
-- `05_Restrictions/nevada/creative-latitude.md` — What you can do in NV but not CA
+- `05_Restrictions/nevada/Approved_Phrases.md` — Nevada-specific copy
+- `05_Restrictions/nevada/Creative_Latitude.md` — What you can do in NV but not CA
 
 ### Notes
 Nevada is the "green light" state for Lead Faucet. Push creative harder here than in California. Platform policies still apply (third person, no gore). When in doubt, consult @Saul with "Nevada campaign."
@@ -206,7 +206,7 @@ Nevada is the "green light" state for Lead Faucet. Push creative harder here tha
 - Tone: Professional but can be direct
 
 ### Notes
-Colorado is the "blinking yellow" state — more latitude than California, less than Nevada. Professional tone recommended. For full details, see `colorado/state-rules.md`.
+Colorado is the "blinking yellow" state — more latitude than California, less than Nevada. Professional tone recommended. For full details, see `colorado/State_Rules.md`.
 
 ---
 
@@ -231,7 +231,7 @@ Colorado is the "blinking yellow" state — more latitude than California, less 
 - Tone: Professional, authentic PNW vibe
 
 ### Notes
-Washington is similar to Colorado — moderate latitude, professional approach. Pacific Northwest audiences respond to authenticity and competence over aggression. For full details, see `washington/state-rules.md`.
+Washington is similar to Colorado — moderate latitude, professional approach. Pacific Northwest audiences respond to authenticity and competence over aggression. For full details, see `washington/State_Rules.md`.
 
 ---
 
@@ -272,8 +272,8 @@ Reference the full `Rulebook/04_State_Bar_Rules.md` when:
 **For Nevada specifically, reference:**
 - `Rulebook/06_Nevada_State_Rules.md` — Complete Nevada rules
 - `Rulebook/07_State_Comparison_Matrix.md` — NV vs CA vs TX vs FL vs NY
-- `05_Restrictions/nevada/approved-phrases.md` — Nevada-specific copy options
-- `05_Restrictions/nevada/creative-latitude.md` — What you can do in NV but not CA
+- `05_Restrictions/nevada/Approved_Phrases.md` — Nevada-specific copy options
+- `05_Restrictions/nevada/Creative_Latitude.md` — What you can do in NV but not CA
 
 ---
 

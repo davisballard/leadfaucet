@@ -345,11 +345,11 @@ These insights apply universally. When adapting for specific states:
 | File | Purpose |
 |------|---------|
 | `BEHAVIORAL_CONTENT_SYSTEM.md` | Master behavioral lever framework |
-| `hooks-and-angles.md` | Creative angle categories |
-| `copy-insights.md` | Approved copy patterns |
-| `starter-pack-framework.md` | Identity salience visual system |
-| `../04_Audience/colorado-targeting.md` | Maria persona source |
-| `../04_Audience/demographics.md` | Broad audience profiles |
+| `Hooks_And_Angles.md` | Creative angle categories |
+| `Copy_Insights.md` | Approved copy patterns |
+| `Starter_Pack_Framework.md` | Identity salience visual system |
+| `../04_Audience/Colorado_Targeting.md` | Maria persona source |
+| `../04_Audience/Demographics.md` | Broad audience profiles |
 
 ---
 

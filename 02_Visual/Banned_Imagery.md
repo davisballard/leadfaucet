@@ -270,5 +270,5 @@ For every banned concept, there's a compliant alternative:
 
 ## Related Files
 
-- `02_Visual/approved-imagery.md` — What TO use instead
-- `05_Restrictions/platform-rules.md` — Platform-specific restrictions
+- `02_Visual/Approved_Imagery.md` — What TO use instead
+- `05_Restrictions/Platform_Rules.md` — Platform-specific restrictions

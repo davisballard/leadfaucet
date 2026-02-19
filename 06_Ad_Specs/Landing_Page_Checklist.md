@@ -53,7 +53,7 @@
 ### Copy Compliance
 
 - [ ] **Third-person language** — No "you" + injury/condition
-- [ ] **No banned phrases** — Check against `banned-phrases.md`
+- [ ] **No banned phrases** — Check against `Banned_Phrases.md`
 - [ ] **Qualified claims** — "Settlements in similar cases..." not guarantees
 - [ ] **No "recommend" language** — We connect, we don't recommend
 
@@ -61,7 +61,7 @@
 
 ### Visual Compliance
 
-- [ ] **No banned imagery** — Check against `banned-imagery.md`
+- [ ] **No banned imagery** — Check against `Banned_Imagery.md`
 - [ ] **Recovery/hope focus** — Not trauma/injury
 - [ ] **Readable disclosures** — 8pt minimum, good contrast
 - [ ] **Professional appearance** — Not "ambulance chaser" vibes
@@ -141,8 +141,8 @@ Rate each section:
 
 | File | Use For |
 |------|---------|
-| `disclosure-library.md` | Copy-paste disclosure text |
-| `fcc-2025-consent.md` | Consent requirements deep dive |
-| `banned-phrases.md` | Copy QA |
-| `banned-imagery.md` | Visual QA |
-| `platform-rules.md` | Platform-specific rules |
+| `Disclosure_Library.md` | Copy-paste disclosure text |
+| `FCC_2025_Consent.md` | Consent requirements deep dive |
+| `Banned_Phrases.md` | Copy QA |
+| `Banned_Imagery.md` | Visual QA |
+| `Platform_Rules.md` | Platform-specific rules |

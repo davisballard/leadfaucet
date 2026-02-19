@@ -93,7 +93,7 @@ Humans are evolutionarily hardwired to prioritize faces. In lead gen, the **type
 |------|-------------|-----|
 | 🟢 **GREEN** | Safe + High-converting | Default for all ads |
 | 🟡 **YELLOW** | Gray area — risky but effective | Test carefully, monitor CPMs |
-| 🔴 **RED** | Banned — will get rejected | See `banned-imagery.md` |
+| 🔴 **RED** | Banned — will get rejected | See `Banned_Imagery.md` |
 | ⚫ **DEAD** | Safe but doesn't convert | Avoid — waste of spend |
 | 🔮 **FUTURE** | Requires UGC/creators | Deprioritized until we have content creators |
 
@@ -1750,10 +1750,10 @@ Before using any image:
 
 # Related Files
 
-- `02_Visual/banned-imagery.md` — What will get rejected (🔴 Red zone)
-- `02_Visual/video-format-strategy.md` — **Video production: Motion Still + TikTok Slide formats**
-- `02_Visual/color-palette.md` — Colors that convert
-- `02_Visual/typography.md` — Text treatment for images
+- `02_Visual/Banned_Imagery.md` — What will get rejected (🔴 Red zone)
+- `02_Visual/Video_Format_Strategy.md` — **Video production: Motion Still + TikTok Slide formats**
+- `02_Visual/Color_Palette.md` — Colors that convert
+- `02_Visual/Typography.md` — Text treatment for images
 - `07_Research/Strategic_Insights/Visual_Insights.md` — Full research source
 - `07_Research/Creative_Resources/Video_Hook_Templates.md` — 200 hook formulas for video
 - `07_Research/Strategic_Insights/Starter_Pack_Framework.md` — Geo-targeted "starter pack" identity imagery system

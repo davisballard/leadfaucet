@@ -479,7 +479,7 @@ BEFORE CLICK:                    AFTER CLICK (200ms):
 
 **The Psychology:**
 
-From **funnel-insights.md**:
+From **Funnel_Insights.md**:
 > "Goal Gradient Effect — People accelerate as they get closer to the end."
 
 From **Adam Ferrier**:
@@ -661,7 +661,7 @@ DEFAULT:                  FOCUS:                    VALID:
 
 **Current State:** "Still Unclear" is an option on the fault question. User selects it and moves to next step with no additional support.
 
-**The Insight (from audience-psychology-insights.md):**
+**The Insight (from Audience_Psychology_Insights.md):**
 
 > **INSIGHT 9: The Blame Shield**
 > 
@@ -816,7 +816,7 @@ When user selects "I Don't Plan To" → Show helpful guidance:
 If the goal is to maximize step 1 completion, keep it — but understand it doesn't filter anyone.
 
 **Option B: Replace with Qualifier**
-From funnel-insights.md, the recommended first question is:
+From Funnel_Insights.md, the recommended first question is:
 > "Were you injured in an accident in the last 2 years?"
 
 This immediately qualifies intent AND recency.

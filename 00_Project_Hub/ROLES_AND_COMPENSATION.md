@@ -60,7 +60,7 @@ This is the AUTHORITATIVE document based on the February 17, 2026 meeting with D
 | Topic | Location |
 |-------|----------|
 | Davis's complete role & compensation | `09_Operations/DAVIS_ROLE_COMPENSATION_OFFICIAL.md` |
-| Team structure overview | `09_Operations/scope-of-work.md` |
+| Team structure overview | `09_Operations/Scope_Of_Work.md` |
 | Meeting notes (Feb 17, 2026) | `Lead_Faucet_Private/Current/Meeting_Notes_2026-02-17.md` |
 | Danny's employee profile | `01_Identity/employees/DanielDilworth.md` |
 | Davis's employee profile | `01_Identity/employees/DavisBallard.md` |

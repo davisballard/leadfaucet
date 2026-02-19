@@ -9,7 +9,7 @@
 ## Usage Notes
 
 - **First 3 seconds are everything** — the hook IS the ad
-- **Match hooks to injury type and audience** — see `hooks-and-angles.md` for angle pairing
+- **Match hooks to injury type and audience** — see `Hooks_And_Angles.md` for angle pairing
 - **Lo-fi delivery** — read these naturally, not scripted/polished
 - **Compliance check** — run controversial hooks by @Saul before production
 
@@ -284,7 +284,7 @@
 
 ## Pairing Guide
 
-| Angle (from hooks-and-angles.md) | Best Template Categories |
+| Angle (from Hooks_And_Angles.md) | Best Template Categories |
 |----------------------------------|-------------------------|
 | Insider Secret | Insider Secret/Authority, Personal Story/Vulnerability |
 | Myth Buster | Myth Busting/Contrarian, Educational/Explainer |
@@ -308,7 +308,7 @@
 | **Motion Still** | 5-6s | 1 | Single scroll-stopping image with subtle motion |
 | **TikTok Slide** | 15s | 3 | Story sequence: Hook → Action → CTA |
 
-**Full Details:** See `02_Visual/video-format-strategy.md`
+**Full Details:** See `02_Visual/Video_Format_Strategy.md`
 
 ---
 
